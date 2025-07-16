@@ -1,0 +1,141 @@
+# Regions data updated on 2025-07-16 14:22:18 UTC
+# Format: ISO_CODE<TAB>ENGLISH_NAME
+AD	Andorra
+AE	United Arab Emirates
+AG	Antigua and Barbuda
+AL	Albania
+AO	Angola
+AR	Argentina
+AT	Austria
+AU	Australia
+AZ	Azerbaijan
+BA	Bosnia and Herzegovina
+BB	Barbados
+BE	Belgium
+BF	Burkina Faso
+BG	Bulgaria
+BH	Bahrain
+BM	Bermuda
+BO	Bolivia
+BR	Brazil
+BS	Bahamas
+BY	Belarus
+BZ	Belize
+CA	Canada
+CD	Congo
+CH	Switzerland
+CI	Cote D'Ivoire
+CL	Chile
+CM	Cameroon
+CO	Colombia
+CR	Costa Rica
+CU	Cuba
+CV	Cape Verde
+CY	Cyprus
+CZ	Czech Republic
+DE	Germany
+DK	Denmark
+DO	Dominican Republic
+DZ	Algeria
+EC	Ecuador
+EE	Estonia
+EG	Egypt
+ES	Spain
+FI	Finland
+FJ	Fiji
+FR	France
+GB	United Kingdom
+GF	French Guiana
+GH	Ghana
+GI	Gibraltar
+GP	Guadaloupe
+GQ	Equatorial Guinea
+GR	Greece
+GT	Guatemala
+GY	Guyana
+HK	Hong Kong
+HN	Honduras
+HR	Croatia
+HU	Hungary
+ID	Indonesia
+IE	Ireland
+IL	Israel
+IN	India
+IQ	Iraq
+IS	Iceland
+IT	Italy
+JM	Jamaica
+JO	Jordan
+JP	Japan
+KE	Kenya
+KR	South Korea
+KW	Kuwait
+LB	Lebanon
+LC	St. Lucia
+LI	Liechtenstein
+LT	Lithuania
+LU	Luxembourg
+LV	Latvia
+LY	Libyan Arab Jamahiriya
+MA	Morocco
+MC	Monaco
+MD	Moldova
+ME	Montenegro
+MG	Madagascar
+MK	Macedonia
+ML	Mali
+MT	Malta
+MU	Mauritius
+MW	Malawi
+MX	Mexico
+MY	Malaysia
+MZ	Mozambique
+NE	Niger
+NG	Nigeria
+NI	Nicaragua
+NL	Netherlands
+NO	Norway
+NZ	New Zealand
+OM	Oman
+PA	Panama
+PE	Peru
+PF	French Polynesia
+PG	Papua New Guinea
+PH	Philippines
+PK	Pakistan
+PL	Poland
+PS	Palestinian Territory
+PT	Portugal
+PY	Paraguay
+QA	Qatar
+RO	Romania
+RS	Serbia
+RU	Russia
+SA	Saudi Arabia
+SC	Seychelles
+SE	Sweden
+SG	Singapore
+SI	Slovenia
+SK	Slovakia
+SM	San Marino
+SN	Senegal
+SV	El Salvador
+TC	Turks and Caicos Islands
+TD	Chad
+TH	Thailand
+TN	Tunisia
+TR	Turkey
+TT	Trinidad and Tobago
+TW	Taiwan
+TZ	Tanzania
+UA	Ukraine
+UG	Uganda
+US	United States of America
+UY	Uruguay
+VA	Holy See
+VE	Venezuela
+XK	Kosovo
+YE	Yemen
+ZA	South Africa
+ZM	Zambia
+ZW	Zimbabwe

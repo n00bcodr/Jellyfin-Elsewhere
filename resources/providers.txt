@@ -1,0 +1,825 @@
+# Providers data updated on 2025-07-16 14:22:18 UTC
+# Format: One provider name per line
+ AXN White Amazon Channel 
+10
+3Cat
+3sat
+5
+7plus
+9Now
+A&E
+A&E Crime Central Apple TV Channel
+ABC
+ABC On Demand Amazon Channel
+ABC iview
+AD tv
+ALLBLK
+ALLBLK Amazon channel 
+ALLBLK Apple TV channel
+ALLWAYSBLK Amazon Channel
+AMC
+AMC Plus Apple TV Channel 
+AMC+
+AMC+ Amazon Channel
+AMC+ Roku Premium Channel
+ARD Mediathek
+ARD Plus
+ARD Plus Amazon channel 
+ARD Plus Apple TV channel
+ARROW
+ASIATIC Amazon Channel
+AVA BGB
+AVA CSAL
+AVA HBZ
+AVA VOBB
+AXN Black Amazon Channel
+Acaciatv Amazon Channel
+Acontra Plus
+Acontra Plus Amazon Channel
+Acorn TV
+Acorn TV Apple TV
+AcornTV Amazon Channel
+Action Max Amazon Channel
+Adrenalin Amazon channel
+Adrenalina Pura Amazon channel
+Adrenalina Pura Apple TV channel
+Adult Swim
+Adultswim Amazon Channel
+Akibapass
+Alchemiya Amazon Channel
+All warrior network Amazon Channel
+Allente
+Alleskino
+Allstars Amazon Channel
+Alt Balaji
+Amazon Arthaus Channel
+Amazon MX Player
+Amazon Prime Video
+Amazon Prime Video Free with Ads
+Amazon Prime Video with Ads
+Amazon Video
+Amebatv Amazon Channel
+Amediateka
+Angel Studios
+Animal Planet
+Animation Digital Network
+Anime Digital Network Amazon Channel
+Anime Generation Amazon Channel
+Anime Times Amazon Channel
+Aniverse Amazon Channel
+Apollo
+Apple TV
+Apple TV Plus Amazon Channel
+Apple TV+
+Argo
+AroVision Aotearoa
+Arrow Video Amazon Channel
+Arte
+Arthaus+
+Arthaus+ Apple TV channel
+Arthouse CNMA Amazon Channel
+ArthouseCNMA
+Asia Premium Amazon Channel 
+Asian Drama Channel Amazon Channel
+AsianCrush
+Aspire TV Amazon Channel
+Atres Player
+Atresplayer Amazon Channel
+Auto Motor und Sport Amazon Channel
+BATTLEZONE Amazon Channel
+BBC America
+BBC Earth Amazon Channel
+BBC Kids Amazon Channel
+BBC Player Amazon Channel
+BBC Select Apple Tv channel
+BBC iPlayer
+BET+  Apple TV channel
+BFI Player
+BFI Player Amazon Channel
+BFI Player Apple TV Channel
+BINGE
+BR Sports Amazon Channel
+BS10 STAR CHANNEL EX Amazon Channel
+BYUtv
+Baeble Amazon Channel
+Bbox VOD
+Be TV Go
+BeFit Amazon Channel
+Beamafilm
+Behind the Tree
+Belas Artes à La Carte
+Benshi Amazon Channel
+Bergblick Amazon Channel
+Best Westerns Ever Amazon Channel
+Best of British Tv Amazon Channel
+Best tv ever Amazon Channel
+Bet+
+Bet+ Amazon Channel
+Bioskop Online
+Blockbuster
+Bloody Movies Amazon Channel
+Bloome plus Amazon Channel
+BluTV Amazon Channel
+BongFlix Amazon Channel
+Bookmyshow
+Box Brazil Play Amazon Channel
+BoxOffice
+Bravo TV
+BritBox
+BritBox Amazon Channel
+Britbox Apple TV Channel 
+Broadway HD Amazon Channel
+BroadwayHD
+Brollie
+Brown Sugar Amazon Channel
+BrutX Amazon Channel
+CBC Gem
+CDA Premium
+CG Collection Amazon channel
+CG tv
+CINE
+CTV
+Canal VOD
+Canal+
+Canal+ Séries
+Canal+ online
+Carnegie Hall+ Amazon Channel
+Carnegie Hall+ Apple TV Channel
+Cartoon Network Amazon Channel
+Catchplay
+Chai Flicks
+Channel 4
+Channel 4 Plus
+Channel K Amazon Channel
+Channel Kyofu Amazon Channel
+Chaupal Amazon Channel
+Cindie Amazon Channel
+Cine Comico Amazon Channel
+Cine+ OCS Amazon Channel 
+CineAutore Amazon Channel
+CineMember
+CineMix+ Amazon Channel
+Cineasterna
+Cinefest Amazon Channel
+Cinefil Wow Plus Amazon Channel
+Cinema of Hearts Amazon Channel
+Cinemas a la Demande
+Cinemax Amazon Channel
+Cinemax Apple TV Channel
+Cineplex
+Cineverse
+Cinu
+Cirkus Amazon Channel 
+Citytvplus
+Citytvplus Amazon Channel
+Claro tv+
+Claro video
+Club Illico
+Cocina ON Amazon Channel
+Cohen Media Amazon Channel
+Comedy Central Plus Amazon Channel
+Coupang Play
+Cranked Up TV
+Crave
+Crave Starz
+Crime+ Investigation Play Amazon Channel
+Crime+Investigation Play Amazon Channel 
+Crime+Investigation Play Apple TV Channel
+Criterion Channel
+Crunchyroll
+Crunchyroll Amazon Channel
+Cultpix
+Curiosity Stream
+CuriosityStream Amazon Channel
+CuriosityStream Apple TV Channel
+CurtaOn Amazon Channel
+Curzon Amazon Channel
+Curzon Home Cinema
+DIRECTV GO
+DOCSVILLE
+DRTV
+Daily Burn Amazon Channel
+Daring Docs Amazon Channel
+Darkroom
+Dekkoo
+Dekkoo Amazon Channel
+Demand Africa Amazon Channel
+Disaster X Amazon Channel
+Discovery
+Discovery +
+Discovery+
+Discovery+ Amazon Channel
+Disney Plus
+DisneyNOW
+DistroTV
+Dizi Amazon Channel
+Djangowestern Amazon Channel
+DocAlliance Films
+DocCom Amazon Channel
+DocPlay
+DocPlay Amazon Channel
+Docsville Amazon Channel
+DocuBay Amazon Channel
+DocuramaFilms Amazon Channel
+Doki Amazon Channel
+Dove Amazon Channel
+Dox Amazon Channel
+Draken Films
+DreamWorksTV Amazon Channel
+Dreamscape Kids Amazon Channel
+E! Entertainment Amazon Channel 
+EPIC ON
+ESPN
+ESPN Plus
+Eagle Magic Amazon Channel
+Eagle No Limits Amazon Channel
+Echoboom Amazon Channel 
+Edisonline
+Elisa Viihde
+Entertainment Asia Amazon Channel
+Eros Now Amazon Channel
+Eros Now Select Apple TV Channel
+Eternal Family
+Eventive
+FANY Channel Select Amazon Channel
+FILMO
+FOD Channel Amazon Channel
+FOUND TV
+FUEL TV+ Amazon Channel
+FXNow
+FYI Network
+Fandango At Home
+Fandango at Home Free
+Fandor
+Fandor Amazon Channel
+Far East Amazon Channel 
+Fawesome
+Fear Factory Amazon Channel
+Fernsehen mit Herz Amazon Channel
+Fetch TV
+FidoTV Channel Amazon Channel
+Film Movement Plus
+Film Movement Plus Amazon Channel
+Film Total Amazon Channel
+Film1
+FilmBox Live Amazon Channel
+FilmBox+
+Filmelier Plus Amazon Channel
+Filmicca
+Filmin
+Filmin Plus
+Filmlegenden Amazon Channel
+Filmo Amazon Channel
+Filmoteket
+Filmow
+Filmpalast Amazon Channel
+Filmstriben
+Filmtastic
+Filmtastic Amazon Channel
+Filmtastic bei Canal+
+Filmzie
+Fitfusion Amazon Channel
+Fix And Foxi Amazon Channel
+FlimmerkisteTV Amazon Channel
+Flix Premiere
+FlixFling
+FlixHouse
+FlixOlé
+FlixOlé Amazon Channel
+Food Matters Amazon Channel
+Food Network
+Fox
+Foxtel Now
+Franatic Amazon Channel
+France Channel Amazon Channel
+France TV
+France TV Amazon Channel
+Freeform
+Freenet meinVOD
+Full Action Amazon Channel
+Full Moon Amazon Channel
+Funk
+Fuse+ Amazon Channel
+GEO Television + Wild Amazon Channel
+GEO Television Amazon Channel
+GEO Wild Amazon Channel
+GOSPEL PLAY
+GRJNGO Amazon Channel
+Gaia Amazon Channel
+Gaiam TV Yoga & Fit
+Galactic Stream Amazon Channel
+GlewedTV
+Global TV
+Globoplay
+Go3
+Good Movies Amazon Channel
+Google Play Movies
+Great American Pure Flix Amazon Channel
+Green Planet Stream Amazon Channel
+GuideDoc
+Gute Laune TV Amazon Channel
+H & C TV Amazon Channel
+HBO Max
+HBO Max  Amazon Channel
+HBO Max  CNN Amazon Channel
+HBO Max Amazon  Channel
+HBO Max Amazon Channel
+HGTV
+HISTORY Vault Amazon Channel
+HISTORY Vault Apple TV Channel
+HRTi
+Hallmark TV Amazon Channel
+Hallmark+ Amazon Channel
+Hallmark+ Apple TV Channel
+Having fun with Shimajiro Amazon Channel
+Hayu
+Hayu Amazon Channel
+Here TV
+Here TV  Amazon Channel
+Hi-YAH
+Hi-YAH Amazon Channel
+HiDive
+Hidive Amazon Channel
+Historama Amazon Channel
+Historia y Actualidad Amazon Channel
+History
+History Vault
+HistoryPlay Amazon Channel
+Hoichoi
+Hoichoi Amazon Channel
+Hollywood Suite
+Hollywood Suite Amazon Channel
+Home of Horror
+Home of Horror Amazon Channel
+Hoopla
+Hopster Amazon Channel
+Hotstar
+Hulu
+Hungama Play
+IFC Amazon Channel
+IFC Films Unlimited Apple TV Channel
+IFFR Unleashed
+INA  madelen Amazon Channel
+IROKOTV
+ITV Amazon Channel
+ITVX
+ITVX Premium
+Icon Film Amazon Channel
+Indie Club Amazon Channel
+Indie Films by Realto Amazon Channel
+IndieFlix
+IndieFlix Shorts Amazon Channel
+IndiePix Unlimited Amazon Channel
+Infinity Selection Amazon Channel
+Infinity+
+Insomnia Amazon Channel
+Investigation Discovery
+Ivi
+Iwonder Amazon Channel
+Jidiaigeki Senmon Channel Amazon Channel
+JioHotstar
+Jolt Film
+Joyn
+Joyn Plus
+JustWatchTV
+KADOKAWA channel Amazon Channel
+KANTELE DOGA CHANNEL Amazon Channel
+KKTV
+KPN
+Kabel Eins Classics Amazon Channel
+Kanal D Drama Amazon Channel
+Kanopy
+Kartoon Channel Amazon Channel
+KiKA
+Kids Station On Demand Amazon Channel
+Kidstream Amazon Channel
+Kinderwelt Amazon Channel
+Kino Film Collection
+Kino on Demand
+Kinopoisk
+Kirjastokino
+Kixi
+Kixi Select Amazon Channel
+Klassiki
+KlikFilm
+Knowledge Network
+Kocowa
+Kocowa Amazon Channel
+Korean Drama Channel Amazon Channel
+LINE TV
+LaCinetek
+Laugh & Peace Mother Select Amazon Channel
+Lemino Select Amazon Channel
+Lepsi TV
+Libreflix
+Lifetime
+Lifetime Movie Club
+Lifetime Movie Club Amazon Channel
+Lifetime Movie Club Apple TV Channel
+Lifetime Play Amazon Channel
+Lifetime Play Apple TV Channel
+Lionsgate Play
+Lionsgate Play Amazon Channel
+Lionsgate Play Apple TV Channel
+Lionsgate+ Amazon Channels
+Looke
+Looke Amazon Channel
+Love Nature Amazon Channel
+Love Nature Apple TV Channel
+Love and Passion Amazon Channel
+M6+
+MAX Stream
+MBS Dougaizm Select Amazon Channel
+MGM Amazon Channel
+MGM Plus
+MGM Plus Amazon Channel
+MGM Plus Roku Premium Channel
+MGM+ Amazon Channel
+MGM+ Apple TV Channel
+MIDNIGHT FACTORY Amazon Channel
+MTV Hits Amazon Channel
+MTV Katsomo
+MTV Plus Amazon Channel
+MUBI
+MUBI Amazon Channel
+MX Player
+MY HERO Amazon Channel
+MYmovies One
+MZ Choice Amazon Channel
+Made in Europe Amazon Channel
+Magellan TV
+Magenta TV
+Magenta TV+
+MagentaTV
+Magnolia Network Amazon Channel
+Magnolia Selects Amazon Channel
+ManoramaMAX Amazon Channel
+ManoramaMax
+Marquee TV Amazon Channel
+Mediaset Infinity
+Mercado Play
+Metrograph
+Mhz Choice
+Microsoft Store
+Midnight Pulp
+Midnight Pulp Amazon Channel
+Mitele 
+Moconomy Amazon Channel
+Molotov TV
+Mometu
+Monomax
+Monsters and Nightmares Amazon Channel
+More TV
+Mosaik Amazon Channel
+Motorvision TV Amazon Channel
+MovieSaints
+MovieSphere+ Amazon Channel
+Moviecult Amazon Channel
+Moviedome Plus Amazon Channel
+Movistar Plus+
+Movistar Plus+ Ficción Total 
+MovistarTV
+Museum Tv Amazon Channel
+MyOutdoor TV Amazon Channel
+MyOutdoorTV
+MyZen TV Amazon Channel
+NBC
+NECO Plus Amazon Channel
+NFB
+NFDC Amazon Channel
+NFL Game Pass Amazon Channel
+NHK Kodomo Park Amazon Channel
+NHK On Demand Amazon Channel
+NLZIET
+NPO Plus
+NPO Start
+NRK TV
+NammaFlix Amazon Channel
+National Geographic
+Neon TV
+NetMovies
+Netflix
+Netflix Kids
+Netflix Standard with Ads
+Netzkino
+Netzkino Select Amazon Channel
+Nexo Plus
+Night Flight Plus
+Nihon Eiga Net Amazon Channel
+Noggin Amazon Channel
+Noovo
+Nordisk Film+
+Nova Play
+Now TV
+Now TV Cinema
+Nuestro Cine MX
+O2 TV
+ORF KIDS
+ORF ON
+OSN+
+OUTtv Amazon Channel
+OUTtv Apple TV Channel
+OVID
+OWN Amazon Channel
+OXYGEN
+Okidoki Amazon Channel
+Okko
+Oldflix
+OnDemandKorea
+Orange VOD
+Otta
+Outside TV Features Amzon Channel
+Outside Watch
+Ovation TV
+OzFlix
+PBS
+PBS America Amazon Channel
+PBS Documentaries Amazon Channel
+PBS Kids Amazon Channel
+PBS Living Amazon Channel
+PBS Masterpiece Amazon Channel
+Panna Cooking Amazon Channel
+Paramount Pictures
+Paramount Plus
+Paramount Plus Apple TV Channel 
+Paramount Plus Basic with Ads
+Paramount Plus Premium
+Paramount+ Amazon Channel
+Paramount+ MTV Amazon Channel
+Paramount+ Originals Amazon Channel
+Paramount+ Roku Premium Channel
+Paramount+ with Showtime
+Pash Amazon Channel
+Passionflix Amazon Channel
+Pathé Thuis
+Peacock Premium
+Peacock Premium Plus
+Philo
+Pickbox NOW
+Picl
+Pinguinitos Amazon Channel
+Pinoy Box Office Amazon Channel
+PixL Amazon Channel
+Plaion Pictures
+Planet Earth Amazon Channel
+Planet Horror Amazon Channel
+Play Suisse
+Player
+Playkids Learning Amazon Channel
+Plex
+Plex Channel
+Plus GAGA Amazon Channel
+Plus Shochiku Amazon Channel
+Pluto TV
+Pokémon Amazon Channel
+Polsat Box Go
+Pongalo Amazon Channel  
+Popcorntimes
+Popflick
+Premier
+Premiere Max
+Premiery Canal+
+Prima Plus
+ProSieben Fun Amazon Channel
+Public Domain Movies
+Pure Flix
+QFT Player
+Qello Concerts by Stingray Amazon Channel
+Queer Cinemab Amazon Channel
+REELZ+ Amazon Channel
+RTBF Auvio
+RTL Crime Amazon Channel
+RTL Living Amazon Channel
+RTL Passion Amazon Channel
+RTL Play
+RTL+
+RTPplay
+Rai Play
+Rakuten TV
+Rakuten Viki
+Raro Video Amazon Channel
+Redlight Cinema Amazon Channel
+Reserva Imovision
+Reserva Imovision Amazon Channel
+RetroCrush Amazon Channel
+Retrocrush
+Reveel
+Revry
+Revry Amazon Channel
+Rialto Amazon Channel
+Runtime
+Ruutu
+Ryan and Friends Plus Amazon Channel
+SBS On Demand
+SF Anytime
+SFR Play
+STARZPLAY
+STUDIOCANAL PRESENTS Apple TV Channel
+STV Player
+SVT
+Sat.1 emotions Amazon Channel
+Science Amazon Channel
+Science Channel
+Screambox
+Screambox Amazon Channel
+ScreenPix Amazon Channel 
+ScreenPix Apple TV Channel
+Sensical Amazon Channel
+Serially
+ServusTV On
+Seven Entertainment Amazon Channel
+Shadowz
+Shadowz Amazon Channel
+Shahid VIP
+ShemarooMe
+ShortsTV Amazon Channel
+Shout! Factory Amazon Channel
+Shout! Factory TV
+ShowMax
+Shudder
+Shudder Amazon Channel
+Shudder Apple TV Channel
+Silverline Amazon Channel
+Sky
+Sky Go
+Sky Store
+Sky X
+SkyShowtime
+Smithsonian Channel Amazon Channel
+Sony Amazon Channel
+Sony Liv
+Sony One Amazon Channel
+Sony Pictures Amazon Channel
+Sony pictures
+Sooner
+Sooner Amazon Channel
+South Park
+Spectrum On Demand
+Spiegel Geschichte Amazon Channel
+Sportdigital Amazon Channel
+StackTV Amazon Channel
+Stan
+Starz
+Starz Amazon Channel
+Starz Apple TV Channel
+Starz Roku Premium Channel
+Stingray All good vibes Amazon Channel
+Stingray Amazon Channel
+Stingray Classica Amazon Channel
+Stingray Djazz Amazon Channel
+Stingray Karaoke Amazon Channel
+Strand Releasing Amazon Channel
+Strim
+Studiocanal Presents ALLSTARS Amazon Channel
+Studiocanal Presents Amazon Channel
+Studiocanal Presents MOVIECULT Amazon Channel
+Stupid Co
+Sun Nxt
+Sundance Now
+Sundance Now Amazon Channel
+Sundance Now Apple TV Channel
+Super Channel Amazon Channel
+Super Channel Plus
+Superfresh Amazon Channel
+TBS
+TCM
+TCM Amazon Channel
+TELE 5
+TELESA Amazon Channel
+TELETOON+ Amazon Channel
+TF1+
+TLC
+TNT
+TOD
+TOD TV
+TV 2
+TV 2 Play
+TV+
+TV1000 Russian Kino Amazon Channel
+TV4 Play
+TVCortos Amazon Channel
+TVING
+TVNZ+
+Takflix
+Tastemade Amazon Channel 
+Tastemade Apple TV Channel
+Tata Play
+Tele2 Play
+Telecine Amazon Channel
+Telenet
+Telia Play
+Tenk
+Terra X Amazon Channel
+The CW
+The Coda Collection Amazon Channel
+The Great Courses Amazon Channel
+The Great Courses Signature Collection Amazon Channel
+The Oprah Winfrey Network
+The Roku Channel
+The Surf Network Amazon Channel
+ThreeNow
+Thrillbox Amazon Channel
+Timvision
+Tivify
+Toei Animation Channel  Amazon Channel
+Toei On Demand Amazon Channel
+Toggo
+Toku Amazon Channel
+Toon Goggles
+Travel Channel
+TriArt Play
+Troma NOW
+True Royalty Amazon Channel
+True Story
+Tubi TV
+Turk On Video Amazon Channel
+TvIgle
+U-NEXT
+UKTV Play
+UP Faith & Family Amazon Channel 
+UP Faith & Family Apple TV Channel
+UPC TV
+USA Network
+Univer Video
+Universal Pictures
+Universal+ Amazon Channel
+Universcine
+Universcine Amazon Channel
+VH1
+VI movies and tv
+VIVA by videofutur
+VIX 
+VOD Club
+VRT MAX
+Vemox Cine Amazon Channel
+Verleihshop
+ViX Premium Amazon Channel
+Viaplay
+Viaplay Amazon Channel
+Vice TV 
+Viddla
+Videobuster
+Videoland
+Videoload
+Vidio
+Viu
+Vix Gratis Amazon Channel
+Voyo
+Vrott Amazon Channel
+W4free
+WOW
+WOW Presents Plus
+WWE Network
+Waidwerk Amazon Channel
+Warriors and Gangsters Amazon Channel
+Watch4+ Amazon Channel
+Watcha
+Watchit.Kid Amazon Channel
+WeTV
+Wedo TV
+Wild West Amzon Channel
+XLTV Amazon Channel 
+Xive TV Documentaries Amazon Channel
+Xumo Play
+Yipee Kids TV Amazon Channel
+Yle Areena
+Yoga and Fitness TV Amazon channel
+Yomiuri TV Channel Amazon Channel
+Yorck on Demand
+YouTube
+YouTube Free
+YouTube Premium
+Youtube TV
+ZDF
+ZDF Herzkino Amazon Channel
+ZDF Krimi Amazon Channel
+ZDF Select Amazon Channel 
+ZDFtivi Amazon channel
+Zee5
+ZenLIFE by Stingray Amazon Channel
+Ziggo TV
+aha
+alleskino Amazon Channel
+blue TV
+dAnime Amazon Channel
+filmfriend
+filmingo
+fuboTV
+genflix
+iBAKATV
+iQIYI
+iWantTFC
+iWonder Full Amazon channel
+iciTouTV
+iflix
+kino films+ Amazon Channel
+maxdome Store
+meJane
+myfilmfriend
+puhutv
+rtve
+tabii
+tru TV
+tvo
+wavve
+wedotv
