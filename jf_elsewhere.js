@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Jellyfin Elsewhere
-// @namespace    jellyfin-elsewhere
+// @namespace    https://github.com/n00bcodr/Jellyfin-Elsewhere
 // @version      1.0
 // @description  streaming service lookup for Jellyfin using TMDB API
 // @author       n00bcodr
@@ -8,6 +8,10 @@
 // @grant        GM_xmlhttpRequest
 // @connect      api.themoviedb.org
 // @connect      raw.githubusercontent.com
+// @updateURL    https://raw.githubusercontent.com/n00bcodr/Jellyfin-Elsewhere/main/jf_enhanced.js
+// @downloadURL  https://raw.githubusercontent.com/n00bcodr/Jellyfin-Elsewhere/main/jf_enhanced.js
+// @supportURL   https://github.com/n00bcodr/Jellyfin-Elsewhere/issues
+// @homepageURL  https://github.com/n00bcodr/Jellyfin-Elsewhere
 // ==/UserScript==
 
 (function() {
@@ -69,7 +73,7 @@
         // Load regions
         makeRequest({
             method: 'GET',
-            url: `https://raw.githubusercontent.com/n00bcodr/jellyfin-elsewhere/refs/heads/master/resources/regions.txt`,
+            url: `https://raw.githubusercontent.com/n00bcodr/Jellyfin-Elsewhere/refs/heads/main/resources/regions.txt`,
             onload: (response) => {
                 if (response.status === 200) {
                     const lines = response.responseText.trim().split('\n');
@@ -116,7 +120,7 @@
         // Load providers
         makeRequest({
             method: 'GET',
-            url: `https://raw.githubusercontent.com/n00bcodr/jellyfin-elsewhere/refs/heads/master/resources/providers.txt`,
+            url: `https://raw.githubusercontent.com/n00bcodr/Jellyfin-Elsewhere/refs/heads/main/resources/providers.txt`,
             onload: (response) => {
                 if (response.status === 200) {
                     availableProviders = response.responseText.trim().split('\n')
