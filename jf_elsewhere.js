@@ -30,6 +30,7 @@
 
 
     let userRegion = DEFAULT_REGION;
+    let userRegions = []; // Multiple regions for search
     let userServices = []; // Empty by default - will show all services from settings region
     let availableRegions = {};
     let availableProviders = [];
@@ -96,7 +97,15 @@
                         'JP': 'Japan',
                         'AU': 'Australia',
                         'BR': 'Brazil',
-                        'MX': 'Mexico'
+                        'MX': 'Mexico',
+                        'IE': 'Ireland',
+                        'IT': 'Italy',
+                        'ES': 'Spain',
+                        'NL': 'Netherlands',
+                        'SE': 'Sweden',
+                        'NO': 'Norway',
+                        'DK': 'Denmark',
+                        'FI': 'Finland'
                     };
                 }
             },
@@ -112,7 +121,15 @@
                     'JP': 'Japan',
                     'AU': 'Australia',
                     'BR': 'Brazil',
-                    'MX': 'Mexico'
+                    'MX': 'Mexico',
+                    'IE': 'Ireland',
+                    'IT': 'Italy',
+                    'ES': 'Spain',
+                    'NL': 'Netherlands',
+                    'SE': 'Sweden',
+                    'NO': 'Norway',
+                    'DK': 'Denmark',
+                    'FI': 'Finland'
                 };
             }
         });
@@ -158,14 +175,14 @@
     // Create autocomplete input with improved keyboard navigation
     function createAutocompleteInput(placeholder, options, selectedValues, onSelect) {
         const container = document.createElement('div');
-        container.style.cssText = 'position: relative; margin-bottom: 8px;';
+        container.style.cssText = 'position: relative; margin-bottom: 6px;';
 
         const input = document.createElement('input');
         input.type = 'text';
         input.placeholder = placeholder;
         input.style.cssText = `
             width: 100%;
-            padding: 12px;
+            padding: 10px;
             border: 1px solid #444;
             border-radius: 6px;
             box-sizing: border-box;
@@ -195,7 +212,7 @@
             display: flex;
             flex-wrap: wrap;
             gap: 6px;
-            margin-top: 8px;
+            margin-top: 6px;
         `;
 
         let selectedIndex = -1;
@@ -209,7 +226,7 @@
                 tag.style.cssText = `
                     background: #0078d4;
                     color: white;
-                    padding: 6px 12px;
+                    padding: 4px 10px;
                     border-radius: 16px;
                     font-size: 12px;
                     display: inline-flex;
@@ -243,7 +260,7 @@
                 const item = document.createElement('div');
                 item.textContent = option;
                 item.style.cssText = `
-                    padding: 12px;
+                    padding: 10px;
                     cursor: pointer;
                     border-bottom: 1px solid #333;
                     color: #fff;
@@ -371,7 +388,7 @@
         const content = document.createElement('div');
         content.style.cssText = `
             background: #181818;
-            padding: 24px;
+            padding: 20px;
             border-radius: 8px;
             max-width: 500px;
             width: 90%;
@@ -383,10 +400,10 @@
         `;
 
         content.innerHTML = `
-            <h3 style="margin-top: 0; margin-bottom: 20px; color: #fff; font-size: 18px; font-weight: bolder;">Search</h3>
+            <h3 style="margin-top: 0; margin-bottom: 16px; color: #fff; font-size: 18px; font-weight: bolder;">Search Settings</h3>
 
-            <div style="margin-bottom: 20px;">
-                <label style="display: block; margin-bottom: 8px; font-weight: 600; color: #ccc;">Country</label>
+            <div style="margin-bottom: 16px;">
+                <label style="display: block; margin-bottom: 6px; font-weight: 600; color: #ccc;">Default Search Country</label>
                 <select id="region-select" style="width: 100%; padding: 12px; border: 1px solid #444; border-radius: 6px; background: #2a2a2a; color: #fff; font-size: 14px;">
                     ${Object.entries(availableRegions).map(([code, name]) =>
                         `<option value="${code}" ${code === userRegion ? 'selected' : ''}>${name}</option>`
@@ -394,24 +411,42 @@
                 </select>
             </div>
 
-           <div style="margin-bottom: 20px;">
-                <label style="display: block; margin-bottom: 5px; font-weight: 600; color: #ccc;">Providers (leave empty to show all available)</label>
+            <div style="margin-bottom: 16px;">
+                <label style="display: block; margin-bottom: 5px; font-weight: 600; color: #ccc;">Search Other Countries (leave empty to use default)</label>
+                <div id="regions-autocomplete"></div>
+            </div>
+
+           <div style="margin-bottom: 16px;">
+                <label style="display: block; margin-bottom: 6px; font-weight: 600; color: #ccc;">Providers (leave empty to show all available)</label>
                 <div id="services-autocomplete"></div>
             </div>
 
             <div style="display: flex; gap: 12px; justify-content: flex-end;">
-                <button id="cancel-settings" style="padding: 12px 20px; border: 1px solid #444; background: #2a2a2a; color: #fff; border-radius: 6px; cursor: pointer; font-size: 14px;">Cancel</button>
-                <button id="save-settings" style="padding: 12px 20px; border: none; background: #0078d4; color: white; border-radius: 6px; cursor: pointer; font-size: 14px;">Save</button>
+                <button id="cancel-settings" style="padding: 10px 18px; border: 1px solid #444; background: #2a2a2a; color: #fff; border-radius: 6px; cursor: pointer; font-size: 14px;">Cancel</button>
+                <button id="save-settings" style="padding: 10px 18px; border: none; background: #0078d4; color: white; border-radius: 6px; cursor: pointer; font-size: 14px;">Save</button>
             </div>
         `;
 
         modal.appendChild(content);
         document.body.appendChild(modal);
 
+        // Add autocomplete for regions
+        const regionsContainer = content.querySelector('#regions-autocomplete');
+        const regionOptions = Object.entries(availableRegions).map(([code, name]) => `${name} (${code})`);
+        const regionsAutocomplete = createAutocompleteInput(
+            'Type to add countries...',
+            regionOptions,
+            userRegions.map(code => `${availableRegions[code] || code} (${code})`),
+            (selected) => {
+                // Update temporary selection
+            }
+        );
+        regionsContainer.appendChild(regionsAutocomplete);
+
         // Add autocomplete for services
         const servicesContainer = content.querySelector('#services-autocomplete');
         const servicesAutocomplete = createAutocompleteInput(
-            'Type to populate...',
+            'Type to add providers...',
             availableProviders,
             userServices.slice(),
             (selected) => {
@@ -428,6 +463,17 @@
         document.getElementById('save-settings').onclick = () => {
             userRegion = document.getElementById('region-select').value;
 
+            // Get selected regions from autocomplete
+            const selectedRegions = [];
+            regionsContainer.querySelectorAll('.selected-tag').forEach(tag => {
+                const text = tag.textContent.replace('×', '').trim();
+                const match = text.match(/\(([A-Z]{2})\)$/);
+                if (match) {
+                    selectedRegions.push(match[1]);
+                }
+            });
+            userRegions = selectedRegions;
+
             // Get selected services from autocomplete
             const selectedServices = [];
             servicesContainer.querySelectorAll('.selected-tag').forEach(tag => {
@@ -438,6 +484,7 @@
             modal.style.display = 'none';
             localStorage.setItem('streaming-settings', JSON.stringify({
                 region: userRegion,
+                regions: userRegions,
                 services: userServices
             }));
         };
@@ -457,6 +504,7 @@
             try {
                 const settings = JSON.parse(saved);
                 userRegion = settings.region || DEFAULT_REGION;
+                userRegions = settings.regions || [];
                 userServices = settings.services || [];
             } catch (e) {
                 console.log('Error loading settings:', e);
@@ -470,8 +518,8 @@
         badge.style.cssText = `
             display: inline-flex;
             align-items: center;
-            padding: 8px 12px;
-            margin: 4px 6px 4px 0;
+            padding: 6px 10px;
+            margin: 3px 5px 3px 0;
             border-radius: 8px;
             font-size: 13px;
             font-weight: 500;
@@ -549,14 +597,11 @@
     // Process streaming data for default region (auto-load)
     function processDefaultRegionData(data, tmdbId, mediaType) {
         const regionData = data.results[DEFAULT_REGION];
-        if (!regionData || !regionData.flatrate) {
-            return null;
-        }
 
         const container = document.createElement('div');
         container.style.cssText = `
-            margin: 12px 0;
-            padding: 16px;
+            margin: 10px 0;
+            padding: 12px;
             background: rgba(0, 0, 0, 0.2);
             border-radius: 8px;
             border: 1px solid rgba(255, 255, 255, 0.1);
@@ -570,12 +615,21 @@
             display: flex;
             justify-content: space-between;
             align-items: center;
-            margin-bottom: 12px;
+            margin-bottom: 10px;
         `;
 
         // Create clickable title that links to JustWatch
         const title = document.createElement('a');
-        title.textContent = `Also available in ${availableRegions[DEFAULT_REGION] || DEFAULT_REGION} on:`;
+
+        // Check if services are available in default region
+        const hasServices = regionData && regionData.flatrate && regionData.flatrate.length > 0;
+
+        if (hasServices) {
+            title.textContent = `Also available in ${availableRegions[DEFAULT_REGION] || DEFAULT_REGION} on:`;
+        } else {
+            title.textContent = `Not available on any streaming services in ${availableRegions[DEFAULT_REGION] || DEFAULT_REGION}`;
+        }
+
         title.style.cssText = `
             font-weight: 600;
             font-size: 14px;
@@ -586,7 +640,7 @@
         `;
 
         // Add JustWatch link if available
-        if (regionData.link) {
+        if (regionData && regionData.link) {
             title.href = regionData.link;
             title.target = '_blank';
             title.title = 'View on JustWatch';
@@ -610,7 +664,9 @@
             display: flex;
             align-items: center;
             gap: 6px;
-            border: none;
+            background: rgba(255, 255, 255, 0.1);
+            color: #fff;
+            border: 1px solid rgba(255, 255, 255, 0.2);
             padding: 6px 12px;
             border-radius: 4px;
             font-size: 12px;
@@ -619,6 +675,13 @@
             transition: all 500ms ease;
         `;
 
+        searchButton.onmouseenter = () => {
+            searchButton.style.background = 'rgba(255, 255, 255, 0.2)';
+        };
+
+        searchButton.onmouseleave = () => {
+            searchButton.style.background = 'rgba(255, 255, 255, 0.1)';
+        };
 
         // Settings button with Material Icon
         const settingsButton = document.createElement('button');
@@ -662,37 +725,40 @@
         header.appendChild(controls);
         container.appendChild(header);
 
-        // Filter services based on DEFAULT_PROVIDERS and IGNORE_PROVIDERS
-        let services = regionData.flatrate;
-        if (DEFAULT_PROVIDERS.length > 0) {
-            services = services.filter(service =>
-                DEFAULT_PROVIDERS.includes(service.provider_name)
-            );
-        }
+        // Only show services if they exist
+        if (hasServices) {
+            // Filter services based on DEFAULT_PROVIDERS and IGNORE_PROVIDERS
+            let services = regionData.flatrate;
+            if (DEFAULT_PROVIDERS.length > 0) {
+                services = services.filter(service =>
+                    DEFAULT_PROVIDERS.includes(service.provider_name)
+                );
+            }
 
-        // Apply ignore list
-        if (IGNORE_PROVIDERS.length > 0) {
-            services = services.filter(service =>
-                !IGNORE_PROVIDERS.includes(service.provider_name)
-            );
-        }
+            // Apply ignore list
+            if (IGNORE_PROVIDERS.length > 0) {
+                services = services.filter(service =>
+                    !IGNORE_PROVIDERS.includes(service.provider_name)
+                );
+            }
 
-        if (services.length === 0) {
-            const noServices = document.createElement('div');
-            noServices.textContent = DEFAULT_PROVIDERS.length > 0
-                ? 'No configured services available'
-                : 'Not available on any streaming services';
-            noServices.style.cssText = 'color: #999; font-size: 13px;';
-            container.appendChild(noServices);
-        } else {
-            const servicesContainer = document.createElement('div');
-            servicesContainer.style.cssText = 'display: flex; flex-wrap: wrap; gap: 4px;';
+            if (services.length === 0) {
+                const noServices = document.createElement('div');
+                noServices.textContent = DEFAULT_PROVIDERS.length > 0
+                    ? 'No configured services available'
+                    : 'Not available on any streaming services';
+                noServices.style.cssText = 'color: #999; font-size: 13px; margin-bottom: 12px;';
+                container.appendChild(noServices);
+            } else {
+                const servicesContainer = document.createElement('div');
+                servicesContainer.style.cssText = 'display: flex; flex-wrap: wrap; gap: 4px; margin-bottom: 12px;';
 
-            services.forEach(service => {
-                servicesContainer.appendChild(createServiceBadge(service, tmdbId, mediaType));
-            });
+                services.forEach(service => {
+                    servicesContainer.appendChild(createServiceBadge(service, tmdbId, mediaType));
+                });
 
-            container.appendChild(servicesContainer);
+                container.appendChild(servicesContainer);
+            }
         }
 
         // Create manual result container for search results
@@ -700,7 +766,7 @@
         resultContainer.id = 'streaming-result-container';
         container.appendChild(resultContainer);
 
-        // Add click handler for manual lookup (settings region)
+        // Add click handler for manual lookup (multiple regions)
         searchButton.onclick = () => {
             searchButton.disabled = true;
             searchButton.innerHTML = '';
@@ -737,14 +803,24 @@
                     return;
                 }
 
-                // Show settings region results
-                const settingsResult = processSettingsRegionData(data, tmdbId, mediaType);
-                if (settingsResult) {
-                    resultContainer.appendChild(settingsResult);
-                } else {
+                // Show results for multiple regions
+                const regionsToSearch = userRegions.length > 0 ? userRegions : [userRegion];
+
+                regionsToSearch.forEach((region, index) => {
+                    const regionResult = processRegionData(data, tmdbId, mediaType, region);
+                    if (regionResult) {
+                        if (index > 0) {
+                            // Add some spacing between regions
+                            regionResult.style.marginTop = '6px';
+                        }
+                        resultContainer.appendChild(regionResult);
+                    }
+                });
+
+                if (resultContainer.children.length === 0) {
                     const noServices = document.createElement('div');
                     noServices.style.cssText = 'color: #6c757d; font-size: 13px; margin-top: 8px;';
-                    noServices.textContent = `No streaming services available in ${availableRegions[userRegion] || userRegion}`;
+                    noServices.textContent = `No streaming services available in selected regions`;
                     resultContainer.appendChild(noServices);
                 }
             });
@@ -753,34 +829,43 @@
         return container;
     }
 
-    // Process streaming data for settings region (manual lookup)
-    function processSettingsRegionData(data, tmdbId, mediaType) {
-        const regionData = data.results[userRegion];
+    // Process streaming data for a specific region
+    function processRegionData(data, tmdbId, mediaType, region) {
+        const regionData = data.results[region];
         if (!regionData || !regionData.flatrate) {
             return null;
         }
 
         const container = document.createElement('div');
         container.style.cssText = `
-            margin: 12px 0 0 0;
-            padding: 16px;
+            margin: 10px 0 0 0;
+            padding: 12px;
             background: rgba(0, 0, 0, 0.3);
             border-radius: 8px;
             border: 1px solid rgba(255, 255, 255, 0.1);
             backdrop-filter: blur(10px);
+            position: relative;
+        `;
+
+        // Create header with title and close button
+        const header = document.createElement('div');
+        header.style.cssText = `
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 10px;
         `;
 
         // Create clickable title that links to JustWatch
         const title = document.createElement('a');
-        title.textContent = `Available in ${availableRegions[userRegion] || userRegion} on:`;
+        title.textContent = `Available in ${availableRegions[region] || region} on:`;
         title.style.cssText = `
             font-weight: 600;
-            margin-bottom: 12px;
             font-size: 14px;
             text-decoration: none;
-            display: block;
             cursor: pointer;
             color: #fff;
+            flex: 1;
         `;
 
         // Add JustWatch link if available and enabled
@@ -790,8 +875,43 @@
             title.title = 'View on JustWatch';
         }
 
+        // Create close button
+        const closeButton = document.createElement('button');
+        const closeIcon = createMaterialIcon('close', '16px');
+        closeButton.appendChild(closeIcon);
+        closeButton.title = 'Close';
+        closeButton.style.cssText = `
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background: rgba(255, 255, 255, 0.1);
+            color: #fff;
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            padding: 6px;
+            border-radius: 4px;
+            cursor: pointer;
+            transition: all 500ms ease;
+            width: 28px;
+            height: 28px;
+        `;
 
-        container.appendChild(title);
+        closeButton.onmouseenter = () => {
+            closeButton.style.background = 'rgba(255, 0, 0, 0.2)';
+            closeButton.style.borderColor = 'rgba(255, 0, 0, 0.3)';
+        };
+
+        closeButton.onmouseleave = () => {
+            closeButton.style.background = 'rgba(255, 255, 255, 0.1)';
+            closeButton.style.borderColor = 'rgba(255, 255, 255, 0.2)';
+        };
+
+        closeButton.onclick = () => {
+            container.remove();
+        };
+
+        header.appendChild(title);
+        header.appendChild(closeButton);
+        container.appendChild(header);
 
         const services = regionData.flatrate.filter(service =>
             userServices.length === 0 || userServices.includes(service.provider_name)
@@ -806,7 +926,7 @@
             container.appendChild(noServices);
         } else {
             const servicesContainer = document.createElement('div');
-            servicesContainer.style.cssText = 'display: flex; flex-wrap: wrap; gap: 4px;';
+            servicesContainer.style.cssText = 'display: flex; flex-wrap: wrap; gap: 3px;';
 
             services.forEach(service => {
                 servicesContainer.appendChild(createServiceBadge(service, tmdbId, mediaType));
@@ -834,11 +954,6 @@
             const defaultResult = processDefaultRegionData(data, tmdbId, mediaType);
             if (defaultResult) {
                 container.appendChild(defaultResult);
-            } else {
-                const noServices = document.createElement('div');
-                noServices.style.cssText = 'color: #6c757d; font-size: 13px; margin-top: 8px;';
-                noServices.textContent = `Not available on any streaming services in ${availableRegions[DEFAULT_REGION] || DEFAULT_REGION}`;
-                container.appendChild(noServices);
             }
         });
     }
