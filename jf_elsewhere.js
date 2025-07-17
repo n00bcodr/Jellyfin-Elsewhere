@@ -865,7 +865,8 @@
             margin: 0 0 6px 0;
             padding: 12px;
             border-radius: 8px;
-            border: 1px solid rgba(139, 19, 19, 0.3);
+            border: 1px solid rgba(139, 19, 19, 0.6);
+            background: rgba(139, 19, 19, 0.3);
             backdrop-filter: blur(10px);
             position: relative;
         `;
@@ -887,9 +888,9 @@
 
         title.textContent = `Not available on any streaming services in ${regionText}`;
         title.style.cssText = `
-            font-weight: 500;
+            font-weight: 600;
             font-size: 14px;
-            color: rgb(139, 19, 19);
+            color: rgb(255, 20, 20);
             flex: 1;
         `;
 
