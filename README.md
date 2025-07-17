@@ -4,6 +4,10 @@
 
 A script that seamlessly integrates with your Jellyfin interface to show you where else your movies and TV shows are available to stream. Using the TMDB API, it provides up-to-date streaming provider information directly on the item details page.
 
+-------------
+![Elsewhere](image.png)
+![Search Settings](image-1.png)
+![Search Other Regions](image-2.png)
 
 ## Prerequisites
 
