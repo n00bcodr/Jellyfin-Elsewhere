@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Jellyfin Elsewhere
 // @namespace    https://github.com/n00bcodr/Jellyfin-Elsewhere
-// @version      1.0
+// @version      1.1
 // @description  streaming service lookup for Jellyfin using TMDB API
 // @author       n00bcodr
 // @match        */web/*
@@ -17,23 +17,25 @@
 (function() {
     'use strict';
 
-    console.log('🎬 Jellyfin Elsewhere starting...');
+    /* -------------- Configuration - Edit these values -------------- */
 
-    // Detect if running as userscript or embedded in Jellyfin
-    const isUserScript = typeof GM_xmlhttpRequest !== 'undefined';
-
-    // Configuration - Edit these values
     const TMDB_API_KEY = 'YOUR_TMDB_API_KEY_HERE'; // Replace with your actual API key
     const DEFAULT_REGION = 'US'; // Default region to show results for
     const DEFAULT_PROVIDERS = []; // Default providers to show (empty = show all)
-    const IGNORE_PROVIDERS = []; // Providers to ignore from default display (e.g., ['Hulu', 'Peacock'])
+    const IGNORE_PROVIDERS = []; // Providers to ignore from default region (supports regex) e.g., ['.*with Ads', 'Hulu'
+
+    /*---------------- End of configuration ----------------*/
 
 
+    // Detect if running as userscript or embedded in Jellyfin
+    const isUserScript = typeof GM_xmlhttpRequest !== 'undefined';
     let userRegion = DEFAULT_REGION;
     let userRegions = []; // Multiple regions for search
     let userServices = []; // Empty by default - will show all services from settings region
     let availableRegions = {};
     let availableProviders = [];
+
+    console.log('🎬 Jellyfin Elsewhere starting...');
 
     // HTTP request function that works in both environments
     function makeRequest(options) {
@@ -727,7 +729,7 @@
 
         // Only show services if they exist
         if (hasServices) {
-            // Filter services based on DEFAULT_PROVIDERS and IGNORE_PROVIDERS
+            // Filter services based on DEFAULT_PROVIDERS
             let services = regionData.flatrate;
             if (DEFAULT_PROVIDERS.length > 0) {
                 services = services.filter(service =>
@@ -735,11 +737,16 @@
                 );
             }
 
-            // Apply ignore list
+            // Apply ignore list using regular expressions
             if (IGNORE_PROVIDERS.length > 0) {
-                services = services.filter(service =>
-                    !IGNORE_PROVIDERS.includes(service.provider_name)
-                );
+                try {
+                    const ignorePatterns = IGNORE_PROVIDERS.map(pattern => new RegExp(pattern, 'i')); // 'i' for case-insensitive
+                    services = services.filter(service =>
+                        !ignorePatterns.some(regex => regex.test(service.provider_name))
+                    );
+                } catch (e) {
+                    console.error('Jellyfin Elsewhere: Invalid regex in IGNORE_PROVIDERS.', e);
+                }
             }
 
             if (services.length === 0) {

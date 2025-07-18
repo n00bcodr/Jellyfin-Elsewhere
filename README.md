@@ -109,19 +109,26 @@ Edit these variables at the top of the script:
 
    List of available options in [providers.txt](resources/providers.txt)
 
-- **IGNORE_PROVIDERS**: A list of streaming providers you want to hide from the default display. This is useful for filtering out services you don't use.
+- **IGNORE_PROVIDERS**: A list of streaming providers you want to hide from the default display. This is useful for filtering out services you don't use. Also supports Regex.
 
    List of available options in [providers.txt](resources/providers.txt)
 
 
-### Example Config
+### Example Configs
 
 
 ```javascript
     const TMDB_API_KEY = '0a1b2c3d4e5f6g7h8i9j';
     const DEFAULT_REGION = 'US';
-    const DEFAULT_PROVIDERS = ['Netflix', 'Hulu'];
-    const IGNORE_PROVIDERS = ['Amazon Prime Video with Ads', 'Netflix Standard with Ads'];
+    const DEFAULT_PROVIDERS = ['Netflix', 'Hulu']; // Will only show these two providers
+    const IGNORE_PROVIDERS = [];
+```
+
+```javascript
+    const TMDB_API_KEY = '0a1b2c3d4e5f6g7h8i9j';
+    const DEFAULT_REGION = 'IN';
+    const DEFAULT_PROVIDERS = []; // Will show all available providers except the below
+    const IGNORE_PROVIDERS = ['.*with Ads', 'Hulu']; // Does not display Hulu and anything that ends 'with Ads'
 ```
 
 
