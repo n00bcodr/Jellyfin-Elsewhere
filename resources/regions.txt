@@ -1,4 +1,4 @@
-# Regions data updated on 2025-07-16 14:22:18 UTC
+# Regions data updated on 2025-08-01 00:56:43 UTC
 # Format: ISO_CODE<TAB>ENGLISH_NAME
 AD	Andorra
 AE	United Arab Emirates

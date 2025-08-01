@@ -1,4 +1,4 @@
-# Providers data updated on 2025-07-16 14:22:18 UTC
+# Providers data updated on 2025-08-01 00:56:43 UTC
 # Format: One provider name per line
  AXN White Amazon Channel 
 10
@@ -98,7 +98,6 @@ BFI Player
 BFI Player Amazon Channel
 BFI Player Apple TV Channel
 BINGE
-BR Sports Amazon Channel
 BS10 STAR CHANNEL EX Amazon Channel
 BYUtv
 Baeble Amazon Channel
@@ -113,7 +112,6 @@ Bergblick Amazon Channel
 Best Westerns Ever Amazon Channel
 Best of British Tv Amazon Channel
 Best tv ever Amazon Channel
-Bet+
 Bet+ Amazon Channel
 Bioskop Online
 Blockbuster
@@ -181,7 +179,6 @@ Comedy Central Plus Amazon Channel
 Coupang Play
 Cranked Up TV
 Crave
-Crave Starz
 Crime+ Investigation Play Amazon Channel
 Crime+Investigation Play Amazon Channel 
 Crime+Investigation Play Apple TV Channel
@@ -460,10 +457,8 @@ Mediaset Infinity
 Mercado Play
 Metrograph
 Mhz Choice
-Microsoft Store
 Midnight Pulp
 Midnight Pulp Amazon Channel
-Mitele 
 Moconomy Amazon Channel
 Molotov TV
 Mometu
@@ -513,7 +508,6 @@ Nova Play
 Now TV
 Now TV Cinema
 Nuestro Cine MX
-O2 TV
 ORF KIDS
 ORF ON
 OSN+
