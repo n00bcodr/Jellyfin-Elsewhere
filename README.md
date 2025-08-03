@@ -60,19 +60,16 @@ You can install the script in one of below ways:
 
 ---
 
-### **Method 2: Plugin**
+### **Method 2: Plugin (Server-Wide)**
 
-1. Install the [Custom JavaScript Plugin](https://github.com/johnpc/jellyfin-plugin-custom-javascript)
+1.  Install the [Jellyfin JavaScript Injector Plugin](https://github.com/n00bcodr/Jellyfin-JavaScript-Injector) and reboot your Jellyfin server.
+2.  Navigate to **Dashboard -> Plugins -> JavaScript Injector**.
+3.  Click on "Add Script"
+4.  Paste the contents of `jf_elsewhere.js` into the script area.
+5.  Save and Refresh.
 
-2. Navigate to **Dashboard -> Plugins -> Custom JavaScript**
-
-3. Paste the contents of `jf_elsewhere.js` into the text area
-
-4. Update your API Key and other [configuration options](#config)
-
-5. Restart Jellyfin
-
-6. **Clear your browser cache** and **reload the Jellyfin Web Page**.
+> [!NOTE]
+> **Clear your cache** if you do not see changes reflect.
 
 ---
 
