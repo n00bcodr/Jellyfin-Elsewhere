@@ -1,6 +1,5 @@
 # Jellyfin Elsewhere
 
-----
 
 A script that seamlessly integrates with your Jellyfin interface to show you where else your movies and TV shows are available to stream. Using the TMDB API, it provides up-to-date streaming provider information directly on the item details page.
 
@@ -21,7 +20,9 @@ A script that seamlessly integrates with your Jellyfin interface to show you whe
 
 You can install the script in one of below ways:
 
----
+<p align="center">
+----
+</p>
 
 ### **Method 1: Modify Web Root**
 
@@ -58,7 +59,9 @@ You can install the script in one of below ways:
 > [!TIP]
 > Check your Jellyfin server logs to find the exact web directory path for your installation.
 
----
+<p align="center">
+----
+</p>
 
 ### **Method 2: Plugin (Server-Wide)**
 
@@ -71,7 +74,9 @@ You can install the script in one of below ways:
 > [!NOTE]
 > **Clear your cache** if you do not see changes reflect.
 
----
+<p align="center">
+----
+</p>
 
 ### **Method 3: Browser Extension (User-Specific)**
 
@@ -89,7 +94,9 @@ You can install the script in one of below ways:
 
 3. Update your API Key and other [configuration options](#config)
 
----
+<p align="center">
+----
+</p>
 
 
 ## <a name="config">🛠️ Configuration</a>
@@ -138,8 +145,13 @@ Edit these variables at the top of the script:
 
 <div align="center">
 
-**Made with ❤️ for the Jellyfin community**
+**Made with 💜 for Jellyfin and the community**
 
-[Report Bug](https://github.com/n00bcodr/Jellyfin-Elsewhere/issues) • [Request Feature](https://github.com/n00bcodr/Jellyfin-Elsewhere/issues) • [Contribute](https://github.com/n00bcodr/Jellyfin-Elsewhere/pulls)
+### Enjoying Jellyfin Elsewhere?
+
+Checkout my other repos!
+
+[Jellyfin-Enhanced](https://github.com/n00bcodr/Jellyfin-Enhanced) (javascript) • [Jellyfin-Elsewhere](https://github.com/n00bcodr/Jellyfin-Elsewhere) (javascript) • [Jellyfin-Tweaks](https://github.com/n00bcodr/JellyfinTweaks) (plugin) • [Jellyfin-JavaScript-Injector](https://github.com/n00bcodr/Jellyfin-JavaScript-Injector) (plugin) • [Jellyfish](https://github.com/n00bcodr/Jellyfish/) (theme)
+
 
 </div>
