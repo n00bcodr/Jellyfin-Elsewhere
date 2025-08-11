@@ -1,19 +1,3 @@
-// ==UserScript==
-// @name         Jellyfin Elsewhere
-// @namespace    https://github.com/n00bcodr/Jellyfin-Elsewhere
-// @version      1.1
-// @description  streaming service lookup for Jellyfin using TMDB API
-// @author       n00bcodr
-// @match        */web/*
-// @grant        GM_xmlhttpRequest
-// @connect      api.themoviedb.org
-// @connect      raw.githubusercontent.com
-// @updateURL    https://raw.githubusercontent.com/n00bcodr/Jellyfin-Elsewhere/main/jf_enhanced.js
-// @downloadURL  https://raw.githubusercontent.com/n00bcodr/Jellyfin-Elsewhere/main/jf_enhanced.js
-// @supportURL   https://github.com/n00bcodr/Jellyfin-Elsewhere/issues
-// @homepageURL  https://github.com/n00bcodr/Jellyfin-Elsewhere
-// ==/UserScript==
-
 (function() {
     'use strict';
 
@@ -22,7 +6,7 @@
     const TMDB_API_KEY = 'YOUR_TMDB_API_KEY_HERE'; // Replace with your actual API key
     const DEFAULT_REGION = 'US'; // Default region to show results for
     const DEFAULT_PROVIDERS = []; // Default providers to show (empty = show all)
-    const IGNORE_PROVIDERS = []; // Providers to ignore from default region (supports regex) e.g., ['.*with Ads', 'Hulu'
+    const IGNORE_PROVIDERS = []; // Providers to ignore from default region (supports regex) e.g., ['.*with Ads', 'Hulu']
 
     /*---------------- End of configuration ----------------*/
 

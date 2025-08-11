@@ -1,0 +1,48 @@
+name: Build Userscript
+
+permissions:
+  contents: write
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'jf_elsewhere.js'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Build userscript
+        id: build
+        run: |
+          HEADER_FILE="userscript.header.js"
+          SOURCE_FILE="jf_elsewhere.js"
+          OUTPUT_FILE="jf_elsewhere.user.js"
+
+          VERSION=$(grep -oP '(?<=@version\s+)\d+\.\d+' ${HEADER_FILE})
+
+          MAJOR=$(echo ${VERSION} | cut -d'.' -f1)
+          MINOR=$(echo ${VERSION} | cut -d'.' -f2)
+
+          NEW_MINOR=$((MINOR + 1))
+          NEW_VERSION="${MAJOR}.${NEW_MINOR}"
+
+          echo "Bumping version from ${VERSION} to ${NEW_VERSION}"
+
+          sed -i "s/@version\s*${VERSION}/@version      ${NEW_VERSION}/" ${HEADER_FILE}
+
+          cat ${HEADER_FILE} ${SOURCE_FILE} > ${OUTPUT_FILE}
+
+          echo "new_version=${NEW_VERSION}" >> $GITHUB_OUTPUT
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Autobuild: Update jf_elsewhere.user.js v${{ steps.build.outputs.new_version }}"
+          file_pattern: "jf_elsewhere.user.js userscript.header.js"

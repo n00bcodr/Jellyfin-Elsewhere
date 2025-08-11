@@ -4,9 +4,15 @@
 A script that seamlessly integrates with your Jellyfin interface to show you where else your movies and TV shows are available to stream. Using the TMDB API, it provides up-to-date streaming provider information directly on the item details page.
 
 -------------
-![Elsewhere](image.png)
-![Search Settings](image-1.png)
-![Search Other Regions](image-2.png)
+
+![Elsewhere](/images/image.png)
+
+| Search Settings | Search Other Regions |
+|-----------------|----------------------|
+|![Search Settings](images/image-1.png) | ![Search Other Regions](images/image-2.png) |
+
+
+
 
 ## Prerequisites
 
@@ -89,7 +95,7 @@ You can install the script in one of below ways:
 
 2. **Install the script:**
 
-   [![Install Script](https://img.shields.io/badge/Install%20Script-blue?style=for-the-badge)](https://github.com/n00bcodr/Jellyfin-elsewhere/raw/main/jf_elsewhere.js)
+   [![Install Script](https://img.shields.io/badge/Install%20Script-blue?style=for-the-badge)](https://github.com/n00bcodr/Jellyfin-elsewhere/raw/main/jf_elsewhere.user.js)
 
 
 3. Update your API Key and other [configuration options](#config)
