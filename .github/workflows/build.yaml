@@ -25,7 +25,7 @@ jobs:
           SOURCE_FILE="jf_elsewhere.js"
           OUTPUT_FILE="jf_elsewhere.user.js"
 
-          VERSION=$(grep -oP '(?<=@version\s+)\d+\.\d+' ${HEADER_FILE})
+          VERSION=$(grep "@version" ${HEADER_FILE} | awk '{print $3}')
 
           MAJOR=$(echo ${VERSION} | cut -d'.' -f1)
           MINOR=$(echo ${VERSION} | cut -d'.' -f2)
