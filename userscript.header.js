@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Jellyfin Elsewhere
 // @namespace    https://github.com/n00bcodr/Jellyfin-Elsewhere
-// @version      1.1
+// @version      1.2
 // @description  Streaming service lookup for Jellyfin using TMDB API
 // @author       n00bcodr
 // @match        */web/*
