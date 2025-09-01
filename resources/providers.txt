@@ -1,4 +1,4 @@
-# Providers data updated on 2025-08-01 00:56:43 UTC
+# Providers data updated on 2025-09-01 00:53:05 UTC
 # Format: One provider name per line
  AXN White Amazon Channel 
 10
@@ -51,7 +51,6 @@ All warrior network Amazon Channel
 Allente
 Alleskino
 Allstars Amazon Channel
-Alt Balaji
 Amazon Arthaus Channel
 Amazon MX Player
 Amazon Prime Video
@@ -131,6 +130,7 @@ BroadwayHD
 Brollie
 Brown Sugar Amazon Channel
 BrutX Amazon Channel
+CANAL+
 CBC Gem
 CDA Premium
 CG Collection Amazon channel
@@ -140,7 +140,6 @@ CTV
 Canal VOD
 Canal+
 Canal+ Séries
-Canal+ online
 Carnegie Hall+ Amazon Channel
 Carnegie Hall+ Apple TV Channel
 Cartoon Network Amazon Channel
@@ -158,7 +157,6 @@ CineAutore Amazon Channel
 CineMember
 CineMix+ Amazon Channel
 Cineasterna
-Cinefest Amazon Channel
 Cinefil Wow Plus Amazon Channel
 Cinema of Hearts Amazon Channel
 Cinemas a la Demande
@@ -356,6 +354,7 @@ Hungama Play
 IFC Amazon Channel
 IFC Films Unlimited Apple TV Channel
 IFFR Unleashed
+IFI@Home
 INA  madelen Amazon Channel
 IROKOTV
 ITV Amazon Channel
@@ -373,6 +372,7 @@ Insomnia Amazon Channel
 Investigation Discovery
 Ivi
 Iwonder Amazon Channel
+JPC
 Jidiaigeki Senmon Channel Amazon Channel
 JioHotstar
 Jolt Film
@@ -477,7 +477,6 @@ MovistarTV
 Museum Tv Amazon Channel
 MyOutdoor TV Amazon Channel
 MyOutdoorTV
-MyZen TV Amazon Channel
 NBC
 NECO Plus Amazon Channel
 NFB
@@ -514,12 +513,12 @@ OSN+
 OUTtv Amazon Channel
 OUTtv Apple TV Channel
 OVID
-OWN Amazon Channel
 OXYGEN
 Okidoki Amazon Channel
 Okko
 Oldflix
 OnDemandKorea
+Oneplay
 Orange VOD
 Otta
 Outside TV Features Amzon Channel
@@ -612,7 +611,6 @@ STUDIOCANAL PRESENTS Apple TV Channel
 STV Player
 SVT
 Sat.1 emotions Amazon Channel
-Science Amazon Channel
 Science Channel
 Screambox
 Screambox Amazon Channel
@@ -677,7 +675,6 @@ Super Channel Plus
 Superfresh Amazon Channel
 TBS
 TCM
-TCM Amazon Channel
 TELE 5
 TELESA Amazon Channel
 TELETOON+ Amazon Channel
@@ -689,7 +686,6 @@ TOD TV
 TV 2
 TV 2 Play
 TV+
-TV1000 Russian Kino Amazon Channel
 TV4 Play
 TVCortos Amazon Channel
 TVING
@@ -704,6 +700,7 @@ Telenet
 Telia Play
 Tenk
 Terra X Amazon Channel
+Thalia
 The CW
 The Coda Collection Amazon Channel
 The Great Courses Amazon Channel
@@ -802,7 +799,7 @@ fuboTV
 genflix
 iBAKATV
 iQIYI
-iWantTFC
+iWant
 iWonder Full Amazon channel
 iciTouTV
 iflix
