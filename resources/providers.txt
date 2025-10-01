@@ -1,4 +1,4 @@
-# Providers data updated on 2025-09-01 00:53:05 UTC
+# Providers data updated on 2025-10-01 00:47:51 UTC
 # Format: One provider name per line
  AXN White Amazon Channel 
 10
@@ -71,7 +71,6 @@ Apple TV
 Apple TV Plus Amazon Channel
 Apple TV+
 Argo
-AroVision Aotearoa
 Arrow Video Amazon Channel
 Arte
 Arthaus+
@@ -175,7 +174,6 @@ Cocina ON Amazon Channel
 Cohen Media Amazon Channel
 Comedy Central Plus Amazon Channel
 Coupang Play
-Cranked Up TV
 Crave
 Crime+ Investigation Play Amazon Channel
 Crime+Investigation Play Amazon Channel 
@@ -236,10 +234,12 @@ Eros Now Amazon Channel
 Eros Now Select Apple TV Channel
 Eternal Family
 Eventive
+Exxen
 FANY Channel Select Amazon Channel
 FILMO
 FOD Channel Amazon Channel
 FOUND TV
+FOX One Amazon Channel
 FUEL TV+ Amazon Channel
 FXNow
 FYI Network
@@ -372,7 +372,6 @@ Insomnia Amazon Channel
 Investigation Discovery
 Ivi
 Iwonder Amazon Channel
-JPC
 Jidiaigeki Senmon Channel Amazon Channel
 JioHotstar
 Jolt Film
@@ -700,7 +699,6 @@ Telenet
 Telia Play
 Tenk
 Terra X Amazon Channel
-Thalia
 The CW
 The Coda Collection Amazon Channel
 The Great Courses Amazon Channel
@@ -732,7 +730,6 @@ UP Faith & Family Apple TV Channel
 UPC TV
 USA Network
 Univer Video
-Universal Pictures
 Universal+ Amazon Channel
 Universcine
 Universcine Amazon Channel
@@ -780,7 +777,7 @@ Yorck on Demand
 YouTube
 YouTube Free
 YouTube Premium
-Youtube TV
+YouTube TV
 ZDF
 ZDF Herzkino Amazon Channel
 ZDF Krimi Amazon Channel
