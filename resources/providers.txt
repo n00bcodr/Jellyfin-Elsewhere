@@ -1,4 +1,4 @@
-# Providers data updated on 2025-10-01 00:47:51 UTC
+# Providers data updated on 2025-11-01 00:47:51 UTC
 # Format: One provider name per line
  AXN White Amazon Channel 
 10
@@ -18,6 +18,7 @@ ALLBLK Amazon channel
 ALLBLK Apple TV channel
 ALLWAYSBLK Amazon Channel
 AMC
+AMC Channels Amazon Channel
 AMC Plus Apple TV Channel 
 AMC+
 AMC+ Amazon Channel
@@ -113,6 +114,7 @@ Best tv ever Amazon Channel
 Bet+ Amazon Channel
 Bioskop Online
 Blockbuster
+Bloodstream
 Bloody Movies Amazon Channel
 Bloome plus Amazon Channel
 BluTV Amazon Channel
@@ -133,7 +135,8 @@ CANAL+
 CBC Gem
 CDA Premium
 CG Collection Amazon channel
-CG tv
+CG TV STREAMING
+CHILI
 CINE
 CTV
 Canal VOD
@@ -161,8 +164,8 @@ Cinema of Hearts Amazon Channel
 Cinemas a la Demande
 Cinemax Amazon Channel
 Cinemax Apple TV Channel
-Cineplex
 Cineverse
+Cinobo
 Cinu
 Cirkus Amazon Channel 
 Citytvplus
@@ -173,6 +176,7 @@ Club Illico
 Cocina ON Amazon Channel
 Cohen Media Amazon Channel
 Comedy Central Plus Amazon Channel
+CosmoGo
 Coupang Play
 Crave
 Crime+ Investigation Play Amazon Channel
@@ -312,13 +316,14 @@ Google Play Movies
 Great American Pure Flix Amazon Channel
 Green Planet Stream Amazon Channel
 GuideDoc
+Gullimax Amazon Channel
 Gute Laune TV Amazon Channel
 H & C TV Amazon Channel
 HBO Max
 HBO Max  Amazon Channel
 HBO Max  CNN Amazon Channel
-HBO Max Amazon  Channel
 HBO Max Amazon Channel
+HBO Max on U-Next
 HGTV
 HISTORY Vault Amazon Channel
 HISTORY Vault Apple TV Channel
@@ -466,6 +471,7 @@ Monsters and Nightmares Amazon Channel
 More TV
 Mosaik Amazon Channel
 Motorvision TV Amazon Channel
+MovieMe
 MovieSaints
 MovieSphere+ Amazon Channel
 Moviecult Amazon Channel
@@ -476,6 +482,7 @@ MovistarTV
 Museum Tv Amazon Channel
 MyOutdoor TV Amazon Channel
 MyOutdoorTV
+MyZen TV Amazon Channel
 NBC
 NECO Plus Amazon Channel
 NFB
@@ -516,6 +523,7 @@ OXYGEN
 Okidoki Amazon Channel
 Okko
 Oldflix
+On Air 
 OnDemandKorea
 Oneplay
 Orange VOD
@@ -567,7 +575,6 @@ Pokémon Amazon Channel
 Polsat Box Go
 Pongalo Amazon Channel  
 Popcorntimes
-Popflick
 Premier
 Premiere Max
 Premiery Canal+
@@ -577,6 +584,7 @@ Public Domain Movies
 Pure Flix
 QFT Player
 Qello Concerts by Stingray Amazon Channel
+Queens club Amazon Channel
 Queer Cinemab Amazon Channel
 REELZ+ Amazon Channel
 RTBF Auvio
@@ -611,7 +619,6 @@ STV Player
 SVT
 Sat.1 emotions Amazon Channel
 Science Channel
-Screambox
 Screambox Amazon Channel
 ScreenPix Amazon Channel 
 ScreenPix Apple TV Channel
@@ -698,6 +705,7 @@ Telecine Amazon Channel
 Telenet
 Telia Play
 Tenk
+Tentkotta
 Terra X Amazon Channel
 The CW
 The Coda Collection Amazon Channel
@@ -750,6 +758,7 @@ Videobuster
 Videoland
 Videoload
 Vidio
+Vimeo
 Viu
 Vix Gratis Amazon Channel
 Voyo
