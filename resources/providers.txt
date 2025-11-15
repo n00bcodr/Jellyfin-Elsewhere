@@ -1,4 +1,4 @@
-# Providers data updated on 2025-11-01 00:47:51 UTC
+# Providers data updated on 2025-11-15 00:44:34 UTC
 # Format: One provider name per line
  AXN White Amazon Channel 
 10
@@ -69,8 +69,7 @@ Anime Times Amazon Channel
 Aniverse Amazon Channel
 Apollo
 Apple TV
-Apple TV Plus Amazon Channel
-Apple TV+
+Apple TV Amazon Channel
 Argo
 Arrow Video Amazon Channel
 Arte
@@ -551,6 +550,7 @@ Paramount+ Roku Premium Channel
 Paramount+ with Showtime
 Pash Amazon Channel
 Passionflix Amazon Channel
+Pathé Home
 Pathé Thuis
 Peacock Premium
 Peacock Premium Plus
@@ -571,6 +571,7 @@ Plex Channel
 Plus GAGA Amazon Channel
 Plus Shochiku Amazon Channel
 Pluto TV
+Pluto TV Live
 Pokémon Amazon Channel
 Polsat Box Go
 Pongalo Amazon Channel  
@@ -593,6 +594,7 @@ RTL Living Amazon Channel
 RTL Passion Amazon Channel
 RTL Play
 RTL+
+RTL+ Max Amazon Channel
 RTPplay
 Rai Play
 Rakuten TV
@@ -679,6 +681,7 @@ Sundance Now Apple TV Channel
 Super Channel Amazon Channel
 Super Channel Plus
 Superfresh Amazon Channel
+Sweatflix Amazon Channel
 TBS
 TCM
 TELE 5
