@@ -1,4 +1,4 @@
-# Providers data updated on 2025-11-15 00:44:34 UTC
+# Providers data updated on 2025-12-01 00:57:20 UTC
 # Format: One provider name per line
  AXN White Amazon Channel 
 10
@@ -63,6 +63,7 @@ Amediateka
 Angel Studios
 Animal Planet
 Animation Digital Network
+Animax Amazon Channel
 Anime Digital Network Amazon Channel
 Anime Generation Amazon Channel
 Anime Times Amazon Channel
@@ -70,9 +71,11 @@ Aniverse Amazon Channel
 Apollo
 Apple TV
 Apple TV Amazon Channel
+Aquarius Amazon Channel
 Argo
 Arrow Video Amazon Channel
 Arte
+Arte Amazon Channel
 Arthaus+
 Arthaus+ Apple TV channel
 Arthouse CNMA Amazon Channel
@@ -117,7 +120,7 @@ Bloodstream
 Bloody Movies Amazon Channel
 Bloome plus Amazon Channel
 BluTV Amazon Channel
-BongFlix Amazon Channel
+Booh Amazon Channel
 Bookmyshow
 Box Brazil Play Amazon Channel
 BoxOffice
@@ -137,6 +140,8 @@ CG Collection Amazon channel
 CG TV STREAMING
 CHILI
 CINE
+CINE BMovie Amazon Channel
+CN Rewind Amazon Channel
 CTV
 Canal VOD
 Canal+
@@ -178,6 +183,7 @@ Comedy Central Plus Amazon Channel
 CosmoGo
 Coupang Play
 Crave
+Crave Amazon Channel
 Crime+ Investigation Play Amazon Channel
 Crime+Investigation Play Amazon Channel 
 Crime+Investigation Play Apple TV Channel
@@ -200,6 +206,7 @@ Darkroom
 Dekkoo
 Dekkoo Amazon Channel
 Demand Africa Amazon Channel
+Diamond Films Amazon Channel
 Disaster X Amazon Channel
 Discovery
 Discovery +
@@ -290,7 +297,6 @@ Fox
 Foxtel Now
 Franatic Amazon Channel
 France Channel Amazon Channel
-France TV
 France TV Amazon Channel
 Freeform
 Freenet meinVOD
@@ -306,6 +312,7 @@ GRJNGO Amazon Channel
 Gaia Amazon Channel
 Gaiam TV Yoga & Fit
 Galactic Stream Amazon Channel
+Gaumont Amazon Channel
 GlewedTV
 Global TV
 Globoplay
@@ -387,6 +394,7 @@ KANTELE DOGA CHANNEL Amazon Channel
 KKTV
 KPN
 Kabel Eins Classics Amazon Channel
+KableOne
 Kanal D Drama Amazon Channel
 Kanopy
 Kartoon Channel Amazon Channel
@@ -481,7 +489,6 @@ MovistarTV
 Museum Tv Amazon Channel
 MyOutdoor TV Amazon Channel
 MyOutdoorTV
-MyZen TV Amazon Channel
 NBC
 NECO Plus Amazon Channel
 NFB
@@ -509,6 +516,7 @@ Noggin Amazon Channel
 Noovo
 Nordisk Film+
 Nova Play
+Novecento Amazon Channel
 Now TV
 Now TV Cinema
 Nuestro Cine MX
@@ -527,6 +535,7 @@ OnDemandKorea
 Oneplay
 Orange VOD
 Otta
+Outbuster Amazon Channel
 Outside TV Features Amzon Channel
 Outside Watch
 Ovation TV
@@ -688,6 +697,7 @@ TELE 5
 TELESA Amazon Channel
 TELETOON+ Amazon Channel
 TF1+
+TFOU Max Amazon Channel
 TLC
 TNT
 TOD
