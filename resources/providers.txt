@@ -1,4 +1,4 @@
-# Providers data updated on 2025-12-01 00:57:20 UTC
+# Providers data updated on 2025-12-15 00:51:55 UTC
 # Format: One provider name per line
  AXN White Amazon Channel 
 10
@@ -76,6 +76,7 @@ Argo
 Arrow Video Amazon Channel
 Arte
 Arte Amazon Channel
+Artflix
 Arthaus+
 Arthaus+ Apple TV channel
 Arthouse CNMA Amazon Channel
@@ -143,6 +144,7 @@ CINE
 CINE BMovie Amazon Channel
 CN Rewind Amazon Channel
 CTV
+CaixaForum+
 Canal VOD
 Canal+
 Canal+ Séries
@@ -213,6 +215,7 @@ Discovery +
 Discovery+
 Discovery+ Amazon Channel
 Disney Plus
+Disney+ Hotstar
 DisneyNOW
 DistroTV
 Dizi Amazon Channel
@@ -359,7 +362,6 @@ Home of Horror
 Home of Horror Amazon Channel
 Hoopla
 Hopster Amazon Channel
-Hotstar
 Hulu
 Hungama Play
 IFC Amazon Channel
@@ -393,6 +395,7 @@ KADOKAWA channel Amazon Channel
 KANTELE DOGA CHANNEL Amazon Channel
 KKTV
 KPN
+KQED
 Kabel Eins Classics Amazon Channel
 KableOne
 Kanal D Drama Amazon Channel
@@ -489,6 +492,7 @@ MovistarTV
 Museum Tv Amazon Channel
 MyOutdoor TV Amazon Channel
 MyOutdoorTV
+MyZen TV Amazon Channel
 NBC
 NECO Plus Amazon Channel
 NFB
@@ -551,12 +555,12 @@ Paramount Pictures
 Paramount Plus
 Paramount Plus Apple TV Channel 
 Paramount Plus Basic with Ads
+Paramount Plus Essential
 Paramount Plus Premium
 Paramount+ Amazon Channel
 Paramount+ MTV Amazon Channel
 Paramount+ Originals Amazon Channel
 Paramount+ Roku Premium Channel
-Paramount+ with Showtime
 Pash Amazon Channel
 Passionflix Amazon Channel
 Pathé Home
@@ -705,6 +709,7 @@ TOD TV
 TV 2
 TV 2 Play
 TV+
+TV2 Skyshowtime
 TV4 Play
 TVCortos Amazon Channel
 TVING
@@ -727,6 +732,7 @@ The Great Courses Signature Collection Amazon Channel
 The Oprah Winfrey Network
 The Roku Channel
 The Surf Network Amazon Channel
+Thirteen
 ThreeNow
 Thrillbox Amazon Channel
 Timvision
@@ -777,6 +783,7 @@ Vix Gratis Amazon Channel
 Voyo
 Vrott Amazon Channel
 W4free
+WETA+
 WOW
 WOW Presents Plus
 WWE Network
@@ -803,6 +810,7 @@ YouTube TV
 ZDF
 ZDF Herzkino Amazon Channel
 ZDF Krimi Amazon Channel
+ZDF Schatzkiste Amazon channel
 ZDF Select Amazon Channel 
 ZDFtivi Amazon channel
 Zee5
