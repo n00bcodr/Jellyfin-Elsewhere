@@ -1,4 +1,4 @@
-# Providers data updated on 2025-12-15 00:51:55 UTC
+# Providers data updated on 2026-01-01 00:56:19 UTC
 # Format: One provider name per line
  AXN White Amazon Channel 
 10
@@ -215,7 +215,7 @@ Discovery +
 Discovery+
 Discovery+ Amazon Channel
 Disney Plus
-Disney+ Hotstar
+Disney+
 DisneyNOW
 DistroTV
 Dizi Amazon Channel
@@ -427,8 +427,6 @@ Lifetime
 Lifetime Movie Club
 Lifetime Movie Club Amazon Channel
 Lifetime Movie Club Apple TV Channel
-Lifetime Play Amazon Channel
-Lifetime Play Apple TV Channel
 Lionsgate Play
 Lionsgate Play Amazon Channel
 Lionsgate Play Apple TV Channel
@@ -536,6 +534,7 @@ Okko
 Oldflix
 On Air 
 OnDemandKorea
+Ondamedia
 Oneplay
 Orange VOD
 Otta
@@ -714,6 +713,7 @@ TV4 Play
 TVCortos Amazon Channel
 TVING
 TVNZ+
+TVP
 Takflix
 Tastemade Amazon Channel 
 Tastemade Apple TV Channel
@@ -795,6 +795,7 @@ Watchit.Kid Amazon Channel
 WeTV
 Wedo TV
 Wild West Amzon Channel
+Wow Fiction Amazon Channel
 XLTV Amazon Channel 
 Xive TV Documentaries Amazon Channel
 Xumo Play
