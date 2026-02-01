@@ -1,4 +1,4 @@
-# Providers data updated on 2026-01-15 00:48:10 UTC
+# Providers data updated on 2026-02-01 01:09:49 UTC
 # Format: One provider name per line
  AXN White Amazon Channel 
 10
@@ -71,16 +71,17 @@ Aniverse Amazon Channel
 Apollo
 Apple TV
 Apple TV Amazon Channel
+Apple TV Store
 Aquarius Amazon Channel
 Argo
 Arrow Video Amazon Channel
 Arte
 Arte Amazon Channel
-Artflix
 Arthaus+
 Arthaus+ Apple TV channel
 Arthouse CNMA Amazon Channel
 ArthouseCNMA
+Artiflix
 Asia Premium Amazon Channel 
 Asian Drama Channel Amazon Channel
 AsianCrush
@@ -183,6 +184,7 @@ Cocina ON Amazon Channel
 Cohen Media Amazon Channel
 Comedy Central Plus Amazon Channel
 CosmoGo
+Coupang Play
 Crave
 Crave Amazon Channel
 Crime+ Investigation Play Amazon Channel
@@ -246,6 +248,7 @@ Eros Now Amazon Channel
 Eros Now Select Apple TV Channel
 Eternal Family
 Eventive
+Exxen
 FANY Channel Select Amazon Channel
 FILMO
 FOD Channel Amazon Channel
@@ -294,7 +297,6 @@ FlixOlé
 FlixOlé Amazon Channel
 Food Matters Amazon Channel
 Food Network
-Fox
 Foxtel Now
 Franatic Amazon Channel
 France Channel Amazon Channel
@@ -567,6 +569,7 @@ Peacock Premium Plus
 Philo
 Pickbox NOW
 Picl
+Pilot WP
 Pinguinitos Amazon Channel
 Pinoy Box Office Amazon Channel
 PixL Amazon Channel
@@ -795,6 +798,7 @@ Watchit.Kid Amazon Channel
 WeTV
 Wedo TV
 Wild West Amzon Channel
+Wonder Project Amazon Channel
 Wow Fiction Amazon Channel
 XLTV Amazon Channel 
 Xive TV Documentaries Amazon Channel
@@ -807,6 +811,8 @@ YouTube
 YouTube Free
 YouTube Premium
 YouTube TV
+Young Hollywood Amazon Channel
+Yow TV
 ZDF
 ZDF Herzkino Amazon Channel
 ZDF Krimi Amazon Channel
