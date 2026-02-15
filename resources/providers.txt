@@ -1,4 +1,4 @@
-# Providers data updated on 2026-02-01 01:09:49 UTC
+# Providers data updated on 2026-02-15 01:06:03 UTC
 # Format: One provider name per line
  AXN White Amazon Channel 
 10
@@ -28,6 +28,7 @@ ARD Plus
 ARD Plus Amazon channel 
 ARD Plus Apple TV channel
 ARROW
+ARTE Boutique
 ASIATIC Amazon Channel
 AVA BGB
 AVA CSAL
@@ -519,6 +520,7 @@ Noovo
 Nordisk Film+
 Nova Play
 Novecento Amazon Channel
+Novo 19
 Now TV
 Now TV Cinema
 Nuestro Cine MX
@@ -542,7 +544,6 @@ Outbuster Amazon Channel
 Outside TV Features Amzon Channel
 Outside Watch
 Ovation TV
-OzFlix
 PBS
 PBS America Amazon Channel
 PBS Documentaries Amazon Channel
