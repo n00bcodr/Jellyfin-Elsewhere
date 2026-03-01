@@ -1,4 +1,4 @@
-# Providers data updated on 2026-02-15 01:06:03 UTC
+# Providers data updated on 2026-03-01 01:08:23 UTC
 # Format: One provider name per line
  AXN White Amazon Channel 
 10
@@ -13,6 +13,7 @@ ABC
 ABC On Demand Amazon Channel
 ABC iview
 AD tv
+AGalega
 ALLBLK
 ALLBLK Amazon channel 
 ALLBLK Apple TV channel
@@ -27,7 +28,6 @@ ARD Mediathek
 ARD Plus
 ARD Plus Amazon channel 
 ARD Plus Apple TV channel
-ARROW
 ARTE Boutique
 ASIATIC Amazon Channel
 AVA BGB
@@ -258,6 +258,7 @@ FOX One Amazon Channel
 FUEL TV+ Amazon Channel
 FXNow
 FYI Network
+Fandango
 Fandango At Home
 Fandango at Home Free
 Fandor
@@ -438,6 +439,7 @@ Love Nature Amazon Channel
 Love Nature Apple TV Channel
 Love and Passion Amazon Channel
 M6+
+M6plus Amazon Channel
 MAX Stream
 MBS Dougaizm Select Amazon Channel
 MGM Amazon Channel
@@ -610,6 +612,7 @@ RTL Play
 RTL+
 RTL+ Max Amazon Channel
 RTPplay
+RUV
 Rai Play
 Rakuten TV
 Rakuten Viki
@@ -619,7 +622,6 @@ Reserva Imovision
 Reserva Imovision Amazon Channel
 RetroCrush Amazon Channel
 Retrocrush
-Reveel
 Revry
 Revry Amazon Channel
 Rialto Amazon Channel
@@ -660,6 +662,7 @@ Sky Go
 Sky Store
 Sky X
 SkyShowtime
+Sling TV Orange
 Smithsonian Channel Amazon Channel
 Sony Amazon Channel
 Sony Liv
@@ -704,6 +707,7 @@ TELESA Amazon Channel
 TELETOON+ Amazon Channel
 TF1+
 TFOU Max Amazon Channel
+TG4
 TLC
 TNT
 TOD
@@ -727,7 +731,6 @@ Telecine Amazon Channel
 Telenet
 Telia Play
 Tenk
-Tentkotta
 Terra X Amazon Channel
 The CW
 The Coda Collection Amazon Channel
@@ -763,7 +766,6 @@ USA Network
 Univer Video
 Universal+ Amazon Channel
 Universcine
-Universcine Amazon Channel
 VH1
 VI movies and tv
 VIVA by videofutur
@@ -804,6 +806,7 @@ Wow Fiction Amazon Channel
 XLTV Amazon Channel 
 Xive TV Documentaries Amazon Channel
 Xumo Play
+YOW.tv
 Yipee Kids TV Amazon Channel
 Yle Areena
 Yoga and Fitness TV Amazon channel
@@ -813,7 +816,6 @@ YouTube Free
 YouTube Premium
 YouTube TV
 Young Hollywood Amazon Channel
-Yow TV
 ZDF
 ZDF Herzkino Amazon Channel
 ZDF Krimi Amazon Channel
