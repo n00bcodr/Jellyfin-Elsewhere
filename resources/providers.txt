@@ -1,4 +1,4 @@
-# Providers data updated on 2026-03-01 01:08:23 UTC
+# Providers data updated on 2026-03-15 01:10:31 UTC
 # Format: One provider name per line
  AXN White Amazon Channel 
 10
@@ -46,13 +46,14 @@ Adrenalin Amazon channel
 Adrenalina Pura Amazon channel
 Adrenalina Pura Apple TV channel
 Adult Swim
-Adultswim Amazon Channel
 Akibapass
 Alchemiya Amazon Channel
 All warrior network Amazon Channel
 Allente
 Alleskino
 Allstars Amazon Channel
+Amasia+ Amazon Channel
+Amasian TV
 Amazon Arthaus Channel
 Amazon MX Player
 Amazon Prime Video
@@ -69,6 +70,7 @@ Anime Digital Network Amazon Channel
 Anime Generation Amazon Channel
 Anime Times Amazon Channel
 Aniverse Amazon Channel
+Anni Duemila Amazon Channel
 Apollo
 Apple TV
 Apple TV Amazon Channel
@@ -251,7 +253,6 @@ Eternal Family
 Eventive
 Exxen
 FANY Channel Select Amazon Channel
-FILMO
 FOD Channel Amazon Channel
 FOUND TV
 FOX One Amazon Channel
@@ -560,8 +561,6 @@ Paramount Plus Basic with Ads
 Paramount Plus Essential
 Paramount Plus Premium
 Paramount+ Amazon Channel
-Paramount+ MTV Amazon Channel
-Paramount+ Originals Amazon Channel
 Paramount+ Roku Premium Channel
 Pash Amazon Channel
 Passionflix Amazon Channel
@@ -743,6 +742,7 @@ Thirteen
 ThreeNow
 Thrillbox Amazon Channel
 Timvision
+Tivibu
 Tivify
 Toei Animation Channel  Amazon Channel
 Toei On Demand Amazon Channel
@@ -765,7 +765,6 @@ UPC TV
 USA Network
 Univer Video
 Universal+ Amazon Channel
-Universcine
 VH1
 VI movies and tv
 VIVA by videofutur
