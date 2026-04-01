@@ -1,4 +1,4 @@
-# Providers data updated on 2026-03-15 01:10:31 UTC
+# Providers data updated on 2026-04-01 01:18:15 UTC
 # Format: One provider name per line
  AXN White Amazon Channel 
 10
@@ -85,6 +85,7 @@ Arthaus+ Apple TV channel
 Arthouse CNMA Amazon Channel
 ArthouseCNMA
 Artiflix
+Artify
 Asia Premium Amazon Channel 
 Asian Drama Channel Amazon Channel
 AsianCrush
@@ -147,14 +148,15 @@ CHILI
 CINE
 CINE BMovie Amazon Channel
 CN Rewind Amazon Channel
+CNTV PLAY
 CTV
 CaixaForum+
+Canal Once
 Canal VOD
 Canal+
 Canal+ Séries
 Carnegie Hall+ Amazon Channel
 Carnegie Hall+ Apple TV Channel
-Cartoon Network Amazon Channel
 Catchplay
 Chai Flicks
 Channel 4
@@ -253,6 +255,7 @@ Eternal Family
 Eventive
 Exxen
 FANY Channel Select Amazon Channel
+FOD
 FOD Channel Amazon Channel
 FOUND TV
 FOX One Amazon Channel
@@ -332,8 +335,6 @@ Gullimax Amazon Channel
 Gute Laune TV Amazon Channel
 H & C TV Amazon Channel
 HBO Max
-HBO Max  Amazon Channel
-HBO Max  CNN Amazon Channel
 HBO Max Amazon Channel
 HBO Max on U-Next
 HGTV
@@ -450,9 +451,7 @@ MGM Plus Roku Premium Channel
 MGM+ Amazon Channel
 MGM+ Apple TV Channel
 MIDNIGHT FACTORY Amazon Channel
-MTV Hits Amazon Channel
 MTV Katsomo
-MTV Plus Amazon Channel
 MUBI
 MUBI Amazon Channel
 MX Player
@@ -495,6 +494,7 @@ Museum Tv Amazon Channel
 MyOutdoor TV Amazon Channel
 MyOutdoorTV
 MyZen TV Amazon Channel
+MĀORI+
 NBC
 NECO Plus Amazon Channel
 NFB
@@ -518,7 +518,6 @@ Netzkino Select Amazon Channel
 Nexo Plus
 Night Flight Plus
 Nihon Eiga Net Amazon Channel
-Noggin Amazon Channel
 Noovo
 Nordisk Film+
 Nova Play
@@ -711,6 +710,7 @@ TLC
 TNT
 TOD
 TOD TV
+TPT
 TV 2
 TV 2 Play
 TV+
@@ -725,6 +725,7 @@ Takflix
 Tastemade Amazon Channel 
 Tastemade Apple TV Channel
 Tata Play
+Tele Quebec
 Tele2 Play
 Telecine Amazon Channel
 Telenet
@@ -784,7 +785,6 @@ Videoload
 Vidio
 Vimeo
 Viu
-Vix Gratis Amazon Channel
 Voyo
 Vrott Amazon Channel
 W4free
