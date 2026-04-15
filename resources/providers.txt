@@ -1,4 +1,4 @@
-# Providers data updated on 2026-04-01 01:18:15 UTC
+# Providers data updated on 2026-04-15 00:13:28 UTC
 # Format: One provider name per line
  AXN White Amazon Channel 
 10
@@ -205,6 +205,7 @@ CuriosityStream Apple TV Channel
 CurtaOn Amazon Channel
 Curzon Amazon Channel
 Curzon Home Cinema
+D-Smart Go
 DIRECTV GO
 DOCSVILLE
 DRTV
@@ -215,6 +216,7 @@ Dekkoo
 Dekkoo Amazon Channel
 Demand Africa Amazon Channel
 Diamond Films Amazon Channel
+Die Biene Maja & Friends
 Disaster X Amazon Channel
 Discovery
 Discovery +
@@ -284,7 +286,6 @@ Filmicca
 Filmin
 Filmin Plus
 Filmlegenden Amazon Channel
-Filmo Amazon Channel
 Filmoteket
 Filmow
 Filmpalast Amazon Channel
@@ -394,6 +395,7 @@ JioHotstar
 Jolt Film
 Joyn
 Joyn Plus
+Jupiter+
 JustWatch TV
 KADOKAWA channel Amazon Channel
 KANTELE DOGA CHANNEL Amazon Channel
@@ -468,6 +470,7 @@ Magnolia Selects Amazon Channel
 ManoramaMAX Amazon Channel
 ManoramaMax
 Marquee TV Amazon Channel
+MediaKlikk
 Mediaset Infinity
 Mercado Play
 Metrograph
@@ -490,10 +493,8 @@ Moviedome Plus Amazon Channel
 Movistar Plus+
 Movistar Plus+ Ficción Total 
 MovistarTV
-Museum Tv Amazon Channel
 MyOutdoor TV Amazon Channel
 MyOutdoorTV
-MyZen TV Amazon Channel
 MĀORI+
 NBC
 NECO Plus Amazon Channel
@@ -536,7 +537,6 @@ OXYGEN
 Okidoki Amazon Channel
 Okko
 Oldflix
-On Air 
 OnDemandKorea
 Ondamedia
 Oneplay
@@ -603,6 +603,7 @@ Queens club Amazon Channel
 Queer Cinemab Amazon Channel
 REELZ+ Amazon Channel
 RTBF Auvio
+RTE Player
 RTL Crime Amazon Channel
 RTL Living Amazon Channel
 RTL Passion Amazon Channel
@@ -610,6 +611,7 @@ RTL Play
 RTL+
 RTL+ Max Amazon Channel
 RTPplay
+RTVC Play
 RUV
 Rai Play
 Rakuten TV
@@ -713,6 +715,7 @@ TOD TV
 TPT
 TV 2
 TV 2 Play
+TV Brasil Play
 TV+
 TV2 Skyshowtime
 TV4 Play
