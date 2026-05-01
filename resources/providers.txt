@@ -1,4 +1,4 @@
-# Providers data updated on 2026-04-15 00:13:28 UTC
+# Providers data updated on 2026-05-01 00:17:10 UTC
 # Format: One provider name per line
  AXN White Amazon Channel 
 10
@@ -108,7 +108,6 @@ BINGE
 BS10 STAR CHANNEL EX Amazon Channel
 BYUtv
 Baeble Amazon Channel
-Bbox VOD
 Be TV Go
 BeFit Amazon Channel
 Beamafilm
@@ -120,7 +119,6 @@ Best Westerns Ever Amazon Channel
 Best of British Tv Amazon Channel
 Best tv ever Amazon Channel
 Bet+ Amazon Channel
-Bioskop Online
 Blockbuster
 Bloodstream
 Bloody Movies Amazon Channel
@@ -164,6 +162,7 @@ Channel 4 Plus
 Channel K Amazon Channel
 Channel Kyofu Amazon Channel
 Chaupal Amazon Channel
+Chilling
 Cindie Amazon Channel
 Cine Comico Amazon Channel
 Cine+ OCS Amazon Channel 
@@ -177,6 +176,7 @@ Cinemas a la Demande
 Cinemax Amazon Channel
 Cinemax Apple TV Channel
 Cineverse
+Cineverse Amazon Channel
 Cinobo
 Cinu
 Cirkus Amazon Channel 
@@ -238,7 +238,6 @@ DocuramaFilms Amazon Channel
 Doki Amazon Channel
 Dove Amazon Channel
 Dox Amazon Channel
-Draken Films
 DreamWorksTV Amazon Channel
 Dreamscape Kids Amazon Channel
 E! Entertainment Amazon Channel 
@@ -424,6 +423,8 @@ Kocowa
 Kocowa Amazon Channel
 Korean Drama Channel Amazon Channel
 LINE TV
+LTV1
+LTV7
 LaCinetek
 Laugh & Peace Mother Select Amazon Channel
 Lemino Select Amazon Channel
@@ -567,6 +568,7 @@ Pathé Home
 Pathé Thuis
 Peacock Premium
 Peacock Premium Plus
+Peacock Premium Plus Amazon Channel
 Philo
 Pickbox NOW
 Picl
@@ -637,6 +639,7 @@ STUDIOCANAL PRESENTS Apple TV Channel
 STV Player
 SVT
 Sat.1 emotions Amazon Channel
+Saudi Channel
 Science Channel
 Screambox Amazon Channel
 ScreenPix Amazon Channel 
@@ -663,6 +666,7 @@ Sky Store
 Sky X
 SkyShowtime
 Sling TV Orange
+Sling TV Orange and Blue
 Smithsonian Channel Amazon Channel
 Sony Amazon Channel
 Sony Liv
