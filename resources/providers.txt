@@ -1,6 +1,7 @@
-# Providers data updated on 2026-05-01 00:17:10 UTC
+# Providers data updated on 2026-05-15 00:19:09 UTC
 # Format: One provider name per line
  AXN White Amazon Channel 
+ Neue Visionen Plus Amazon Channel
 10
 3Cat
 3sat
@@ -326,7 +327,6 @@ GlewedTV
 Global TV
 Globoplay
 Go3
-Good Movies Amazon Channel
 Google Play Movies
 Great American Pure Flix Amazon Channel
 Green Planet Stream Amazon Channel
@@ -655,7 +655,6 @@ ShemarooMe
 ShortsTV Amazon Channel
 Shout! Factory Amazon Channel
 Shout! Factory TV
-ShowMax
 Shudder
 Shudder Amazon Channel
 Shudder Apple TV Channel
