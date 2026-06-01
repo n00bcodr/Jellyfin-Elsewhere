@@ -1,5 +1,6 @@
-# Providers data updated on 2026-05-15 00:19:09 UTC
+# Providers data updated on 2026-06-01 00:22:07 UTC
 # Format: One provider name per line
+ AP International South Cinema Amazon Channel
  AXN White Amazon Channel 
  Neue Visionen Plus Amazon Channel
 10
@@ -146,6 +147,7 @@ CG TV STREAMING
 CHILI
 CINE
 CINE BMovie Amazon Channel
+CJ ENM Selects Amazon Channel
 CN Rewind Amazon Channel
 CNTV PLAY
 CTV
@@ -287,7 +289,6 @@ Filmin
 Filmin Plus
 Filmlegenden Amazon Channel
 Filmoteket
-Filmow
 Filmpalast Amazon Channel
 Filmstriben
 Filmtastic
@@ -398,7 +399,6 @@ Jupiter+
 JustWatch TV
 KADOKAWA channel Amazon Channel
 KANTELE DOGA CHANNEL Amazon Channel
-KKTV
 KPN
 KQED
 Kabel Eins Classics Amazon Channel
@@ -423,6 +423,7 @@ Kocowa
 Kocowa Amazon Channel
 Korean Drama Channel Amazon Channel
 LINE TV
+LRT Epika
 LTV1
 LTV7
 LaCinetek
@@ -691,7 +692,6 @@ Stingray Djazz Amazon Channel
 Stingray Karaoke Amazon Channel
 Strand Releasing Amazon Channel
 Strim
-Studiocanal Presents ALLSTARS Amazon Channel
 Studiocanal Presents Amazon Channel
 Studiocanal Presents MOVIECULT Amazon Channel
 Stupid Co
@@ -778,6 +778,7 @@ VIVA by videofutur
 VIX 
 VOD Club
 VRT MAX
+VTM GO
 Vemox Cine Amazon Channel
 Verleihshop
 ViX Premium Amazon Channel
