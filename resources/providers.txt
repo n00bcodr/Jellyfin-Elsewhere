@@ -1,4 +1,4 @@
-# Providers data updated on 2026-06-01 00:22:07 UTC
+# Providers data updated on 2026-06-15 00:26:11 UTC
 # Format: One provider name per line
  AP International South Cinema Amazon Channel
  AXN White Amazon Channel 
@@ -30,6 +30,7 @@ ARD Mediathek
 ARD Plus
 ARD Plus Amazon channel 
 ARD Plus Apple TV channel
+ARROW
 ARTE Boutique
 ASIATIC Amazon Channel
 AVA BGB
@@ -73,6 +74,7 @@ Anime Generation Amazon Channel
 Anime Times Amazon Channel
 Aniverse Amazon Channel
 Anni Duemila Amazon Channel
+Antel TV
 Apollo
 Apple TV
 Apple TV Amazon Channel
@@ -738,6 +740,7 @@ Telenet
 Telia Play
 Tenk
 Terra X Amazon Channel
+Thai PBS
 The CW
 The Coda Collection Amazon Channel
 The Great Courses Amazon Channel
