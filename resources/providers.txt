@@ -1,4 +1,4 @@
-# Providers data updated on 2026-06-15 00:26:11 UTC
+# Providers data updated on 2026-07-01 00:24:15 UTC
 # Format: One provider name per line
  AP International South Cinema Amazon Channel
  AXN White Amazon Channel 
@@ -14,6 +14,7 @@ A&E Crime Central Apple TV Channel
 ABC
 ABC On Demand Amazon Channel
 ABC iview
+ABEMA
 AD tv
 AGalega
 ALLBLK
@@ -72,6 +73,7 @@ Animax Amazon Channel
 Anime Digital Network Amazon Channel
 Anime Generation Amazon Channel
 Anime Times Amazon Channel
+Animebox Channel Amazon Channel
 Aniverse Amazon Channel
 Anni Duemila Amazon Channel
 Antel TV
@@ -104,7 +106,6 @@ BBC Kids Amazon Channel
 BBC Player Amazon Channel
 BBC Select Apple Tv channel
 BBC iPlayer
-BET+  Apple TV channel
 BFI Player
 BFI Player Amazon Channel
 BFI Player Apple TV Channel
@@ -122,7 +123,6 @@ Bergblick Amazon Channel
 Best Westerns Ever Amazon Channel
 Best of British Tv Amazon Channel
 Best tv ever Amazon Channel
-Bet+ Amazon Channel
 Blockbuster
 Bloodstream
 Bloody Movies Amazon Channel
@@ -133,6 +133,7 @@ Bookmyshow
 Box Brazil Play Amazon Channel
 BoxOffice
 Bravo TV
+Brew
 BritBox
 BritBox Amazon Channel
 Britbox Apple TV Channel 
@@ -149,6 +150,7 @@ CG TV STREAMING
 CHILI
 CINE
 CINE BMovie Amazon Channel
+CINE Dark Amazon Channel
 CJ ENM Selects Amazon Channel
 CN Rewind Amazon Channel
 CNTV PLAY
@@ -158,6 +160,7 @@ Canal Once
 Canal VOD
 Canal+
 Canal+ Séries
+CanalSurMas
 Carnegie Hall+ Amazon Channel
 Carnegie Hall+ Apple TV Channel
 Catchplay
@@ -168,6 +171,7 @@ Channel K Amazon Channel
 Channel Kyofu Amazon Channel
 Chaupal Amazon Channel
 Chilling
+Cignal Play
 Cindie Amazon Channel
 Cine Comico Amazon Channel
 Cine+ OCS Amazon Channel 
@@ -261,6 +265,7 @@ Eternal Family
 Eventive
 Exxen
 FANY Channel Select Amazon Channel
+FEAR Amazon Channel
 FOD
 FOD Channel Amazon Channel
 FOUND TV
@@ -307,6 +312,7 @@ FlixOlé
 FlixOlé Amazon Channel
 Food Matters Amazon Channel
 Food Network
+Founderzone Amazon Channel
 Foxtel Now
 Franatic Amazon Channel
 France Channel Amazon Channel
@@ -423,6 +429,7 @@ KlikFilm
 Knowledge Network
 Kocowa
 Kocowa Amazon Channel
+Koiplay Amazon Channel
 Korean Drama Channel Amazon Channel
 LINE TV
 LRT Epika
@@ -473,6 +480,7 @@ Magnolia Network Amazon Channel
 Magnolia Selects Amazon Channel
 ManoramaMAX Amazon Channel
 ManoramaMax
+Maraya
 Marquee TV Amazon Channel
 MediaKlikk
 Mediaset Infinity
@@ -531,6 +539,7 @@ Novo 19
 Now TV
 Now TV Cinema
 Nuestro Cine MX
+OPTO SIC
 ORF KIDS
 ORF ON
 OSN+
@@ -586,7 +595,6 @@ Play Suisse
 Player
 Playkids Learning Amazon Channel
 Plex
-Plex Channel
 Plus GAGA Amazon Channel
 Plus Shochiku Amazon Channel
 Pluto TV
@@ -719,10 +727,18 @@ TOD
 TOD TV
 TPT
 TV 2
+TV 2 Bornholm
+TV 2 Fyn
+TV 2 Kosmopol
+TV 2 Nord
 TV 2 Play
+TV 2 ØSTJYLLAND
 TV Brasil Play
+TV MIDTVEST
+TV SYD
 TV+
 TV2 Skyshowtime
+TV2 ØST
 TV4 Play
 TV5 Unis
 TVCortos Amazon Channel
@@ -810,6 +826,7 @@ Watchit.Kid Amazon Channel
 WeTV
 Wedo TV
 Wild West Amzon Channel
+Winx Club & Friends Amazon Channel
 Wonder Project Amazon Channel
 Wow Fiction Amazon Channel
 XLTV Amazon Channel 
