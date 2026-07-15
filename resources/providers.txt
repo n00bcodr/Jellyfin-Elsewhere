@@ -1,4 +1,4 @@
-# Providers data updated on 2026-07-01 00:24:15 UTC
+# Providers data updated on 2026-07-15 00:15:06 UTC
 # Format: One provider name per line
  AP International South Cinema Amazon Channel
  AXN White Amazon Channel 
@@ -181,7 +181,6 @@ CineMix+ Amazon Channel
 Cineasterna
 Cinefil Wow Plus Amazon Channel
 Cinema of Hearts Amazon Channel
-Cinemas a la Demande
 Cinemax Amazon Channel
 Cinemax Apple TV Channel
 Cineverse
@@ -382,6 +381,7 @@ IFC Films Unlimited Apple TV Channel
 IFFR Unleashed
 IFI@Home
 INA  madelen Amazon Channel
+INA madelen
 IROKOTV
 ITV Amazon Channel
 ITVX
@@ -393,7 +393,6 @@ IndieFlix
 IndieFlix Shorts Amazon Channel
 IndiePix Unlimited Amazon Channel
 Infinity Selection Amazon Channel
-Infinity+
 Insomnia Amazon Channel
 Investigation Discovery
 Ivi
@@ -682,6 +681,7 @@ Sony Amazon Channel
 Sony Liv
 Sony One Amazon Channel
 Sony Pictures Amazon Channel
+Sony Pictures Core Amazon Channel
 Sony pictures
 Sooner
 Sooner Amazon Channel
