@@ -1,4 +1,4 @@
-# Providers data updated on 2026-07-15 00:15:06 UTC
+# Providers data updated on 2026-08-01 00:17:47 UTC
 # Format: One provider name per line
  AP International South Cinema Amazon Channel
  AXN White Amazon Channel 
@@ -139,7 +139,6 @@ BritBox Amazon Channel
 Britbox Apple TV Channel 
 Broadway HD Amazon Channel
 BroadwayHD
-Brollie
 Brown Sugar Amazon Channel
 BrutX Amazon Channel
 CANAL+
@@ -268,6 +267,7 @@ FEAR Amazon Channel
 FOD
 FOD Channel Amazon Channel
 FOUND TV
+FOX One
 FOX One Amazon Channel
 FUEL TV+ Amazon Channel
 FXNow
@@ -393,6 +393,7 @@ IndieFlix
 IndieFlix Shorts Amazon Channel
 IndiePix Unlimited Amazon Channel
 Infinity Selection Amazon Channel
+Infinity+
 Insomnia Amazon Channel
 Investigation Discovery
 Ivi
@@ -759,6 +760,7 @@ Terra X Amazon Channel
 Thai PBS
 The CW
 The Coda Collection Amazon Channel
+The Film Club Amazon Channel
 The Great Courses Amazon Channel
 The Great Courses Signature Collection Amazon Channel
 The Oprah Winfrey Network
@@ -823,6 +825,7 @@ Warriors and Gangsters Amazon Channel
 Watch4+ Amazon Channel
 Watcha
 Watchit.Kid Amazon Channel
+WeShorts Amazon Channel
 WeTV
 Wedo TV
 Wild West Amzon Channel
