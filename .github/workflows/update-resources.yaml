@@ -37,6 +37,10 @@ jobs:
       run: |
         python update-resources.py
 
+    - name: Write refresh date badge
+      run: |
+        echo "{\"schemaVersion\":1,\"label\":\"resources refreshed\",\"message\":\"$(date -u +'%Y-%m-%d')\",\"color\":\"blue\"}" > resources/badge.json
+
     - name: Commit and push changes
       run: |
         git config --local user.email "action@github.com"
