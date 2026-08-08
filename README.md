@@ -2,14 +2,16 @@
 
 [![Update Resources](https://github.com/n00bcodr/Jellyfin-Elsewhere/actions/workflows/update-resources.yaml/badge.svg)](https://github.com/n00bcodr/Jellyfin-Elsewhere/actions/workflows/update-resources.yaml) [![Resources last refreshed](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/n00bcodr/Jellyfin-Elsewhere/main/resources/badge.json)](https://github.com/n00bcodr/Jellyfin-Elsewhere/commits/main/resources)
 
-A script that seamlessly integrates with your Jellyfin interface to show you where else your movies and TV shows are available to stream. Using the TMDB API, it provides up-to-date streaming provider information directly on the item details page.
-
--------------
-
 > [!IMPORTANT]
 > **This feature now lives in [Jellyfin Enhanced](https://github.com/n00bcodr/Jellyfin-Enhanced)**, as its "Elsewhere" module, a proper server-side Jellyfin plugin with no manual `index.html`/userscript-manager setup required. New installs should use that instead.
 >
-> This repo is kept around for two reasons: the standalone userscript below still works for anyone who prefers it over a plugin, and the `resources/` directory (region and streaming-provider lists, refreshed from TMDB on a schedule, see badges above) is the shared data source both this script and the Jellyfin Enhanced plugin pull from.
+> This repo is kept around for two reasons:
+>    1. The standalone userscript below still works for anyone who prefers it over a plugin.
+>    2. The `resources/` directory (region and streaming-provider lists, refreshed from TMDB on a schedule, see badges above) is the shared data source both this script and the Jellyfin Enhanced plugin pull from.
+--------------------
+A script that seamlessly integrates with your Jellyfin interface to show you where else your movies and TV shows are available to stream. Using the TMDB API, it provides up-to-date streaming provider information directly on the item details page.
+
+-------------
 
 ![Elsewhere](/images/image.png)
 
