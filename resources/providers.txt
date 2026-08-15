@@ -1,4 +1,4 @@
-# Providers data updated on 2026-08-01 00:17:47 UTC
+# Providers data updated on 2026-08-15 00:03:18 UTC
 # Format: One provider name per line
  AP International South Cinema Amazon Channel
  AXN White Amazon Channel 
@@ -153,7 +153,6 @@ CINE Dark Amazon Channel
 CJ ENM Selects Amazon Channel
 CN Rewind Amazon Channel
 CNTV PLAY
-CTV
 CaixaForum+
 Canal Once
 Canal VOD
@@ -374,6 +373,7 @@ Home of Horror
 Home of Horror Amazon Channel
 Hoopla
 Hopster Amazon Channel
+Howdy Amazon Channel
 Hulu
 Hungama Play
 IFC Amazon Channel
@@ -595,10 +595,10 @@ Play Suisse
 Player
 Playkids Learning Amazon Channel
 Plex
+Plex Channel
 Plus GAGA Amazon Channel
 Plus Shochiku Amazon Channel
 Pluto TV
-Pluto TV Live
 Pokémon Amazon Channel
 Polsat Box Go
 Pongalo Amazon Channel  
