@@ -1,4 +1,4 @@
-# Providers data updated on 2026-08-15 00:03:18 UTC
+# Providers data updated on 2026-09-01 02:17:01 UTC
 # Format: One provider name per line
  AP International South Cinema Amazon Channel
  AXN White Amazon Channel 
@@ -10,7 +10,7 @@
 7plus
 9Now
 A&E
-A&E Crime Central Apple TV Channel
+A&E Crime Central Apple TV channel
 ABC
 ABC On Demand Amazon Channel
 ABC iview
@@ -23,7 +23,7 @@ ALLBLK Apple TV channel
 ALLWAYSBLK Amazon Channel
 AMC
 AMC Channels Amazon Channel
-AMC Plus Apple TV Channel 
+AMC Plus Apple TV channel
 AMC+
 AMC+ Amazon Channel
 AMC+ Roku Premium Channel
@@ -43,7 +43,7 @@ Acaciatv Amazon Channel
 Acontra Plus
 Acontra Plus Amazon Channel
 Acorn TV
-Acorn TV Apple TV
+Acorn TV Apple TV channel
 AcornTV Amazon Channel
 Action Max Amazon Channel
 Adrenalin Amazon channel
@@ -136,7 +136,7 @@ Bravo TV
 Brew
 BritBox
 BritBox Amazon Channel
-Britbox Apple TV Channel 
+Britbox Apple TV channel
 Broadway HD Amazon Channel
 BroadwayHD
 Brown Sugar Amazon Channel
@@ -160,7 +160,7 @@ Canal+
 Canal+ Séries
 CanalSurMas
 Carnegie Hall+ Amazon Channel
-Carnegie Hall+ Apple TV Channel
+Carnegie Hall+ Apple TV channel
 Catchplay
 Chai Flicks
 Channel 4
@@ -180,7 +180,7 @@ Cineasterna
 Cinefil Wow Plus Amazon Channel
 Cinema of Hearts Amazon Channel
 Cinemax Amazon Channel
-Cinemax Apple TV Channel
+Cinemax Apple TV channel
 Cineverse
 Cineverse Amazon Channel
 Cinobo
@@ -207,7 +207,7 @@ Crunchyroll Amazon Channel
 Cultpix
 Curiosity Stream
 CuriosityStream Amazon Channel
-CuriosityStream Apple TV Channel
+CuriosityStream Apple TV channel
 CurtaOn Amazon Channel
 Curzon Amazon Channel
 Curzon Home Cinema
@@ -257,7 +257,7 @@ Edisonline
 Elisa Viihde
 Entertainment Asia Amazon Channel
 Eros Now Amazon Channel
-Eros Now Select Apple TV Channel
+Eros Now Select Apple TV channel
 Eternal Family
 Eventive
 Exxen
@@ -334,6 +334,7 @@ GlewedTV
 Global TV
 Globoplay
 Go3
+Goldmines Play Amazon Channel
 Google Play Movies
 Great American Pure Flix Amazon Channel
 Green Planet Stream Amazon Channel
@@ -346,11 +347,11 @@ HBO Max Amazon Channel
 HBO Max on U-Next
 HGTV
 HISTORY Vault Amazon Channel
-HISTORY Vault Apple TV Channel
+HISTORY Vault Apple TV channel
 HRTi
 Hallmark TV Amazon Channel
 Hallmark+ Amazon Channel
-Hallmark+ Apple TV Channel
+Hallmark+ Apple TV channel
 Having fun with Shimajiro Amazon Channel
 Hayu
 Hayu Amazon Channel
@@ -377,7 +378,7 @@ Howdy Amazon Channel
 Hulu
 Hungama Play
 IFC Amazon Channel
-IFC Films Unlimited Apple TV Channel
+IFC Films Unlimited Apple TV channel
 IFFR Unleashed
 IFI@Home
 INA  madelen Amazon Channel
@@ -398,6 +399,7 @@ Insomnia Amazon Channel
 Investigation Discovery
 Ivi
 Iwonder Amazon Channel
+JOJO Amazon Channel
 Jidiaigeki Senmon Channel Amazon Channel
 JioHotstar
 Jolt Film
@@ -443,7 +445,7 @@ Libreflix
 Lifetime
 Lifetime Movie Club
 Lifetime Movie Club Amazon Channel
-Lifetime Movie Club Apple TV Channel
+Lifetime Movie Club Apple TV channel
 Lionsgate Play
 Lionsgate Play Amazon Channel
 Lionsgate Play Apple TV Channel
@@ -486,6 +488,7 @@ MediaKlikk
 Mediaset Infinity
 Mercado Play
 Metrograph
+Mewatch
 Mhz Choice
 Midnight Pulp
 Midnight Pulp Amazon Channel
@@ -531,7 +534,6 @@ Netzkino Select Amazon Channel
 Nexo Plus
 Night Flight Plus
 Nihon Eiga Net Amazon Channel
-Noovo
 Nordisk Film+
 Nova Play
 Novecento Amazon Channel
@@ -544,7 +546,7 @@ ORF KIDS
 ORF ON
 OSN+
 OUTtv Amazon Channel
-OUTtv Apple TV Channel
+OUTtv Apple TV channel
 OVID
 OXYGEN
 Okidoki Amazon Channel
@@ -568,7 +570,7 @@ PBS Masterpiece Amazon Channel
 Panna Cooking Amazon Channel
 Paramount Pictures
 Paramount Plus
-Paramount Plus Apple TV Channel 
+Paramount Plus Apple TV channel
 Paramount Plus Basic with Ads
 Paramount Plus Essential
 Paramount Plus Premium
@@ -654,7 +656,7 @@ Saudi Channel
 Science Channel
 Screambox Amazon Channel
 ScreenPix Amazon Channel 
-ScreenPix Apple TV Channel
+ScreenPix Apple TV channel
 Sensical Amazon Channel
 Serially
 ServusTV On
@@ -668,7 +670,7 @@ Shout! Factory Amazon Channel
 Shout! Factory TV
 Shudder
 Shudder Amazon Channel
-Shudder Apple TV Channel
+Shudder Apple TV channel
 Silverline Amazon Channel
 Sky
 Sky Go
@@ -694,7 +696,7 @@ StackTV Amazon Channel
 Stan
 Starz
 Starz Amazon Channel
-Starz Apple TV Channel
+Starz Apple TV channel
 Starz Roku Premium Channel
 Stingray All good vibes Amazon Channel
 Stingray Amazon Channel
@@ -709,7 +711,7 @@ Stupid Co
 Sun Nxt
 Sundance Now
 Sundance Now Amazon Channel
-Sundance Now Apple TV Channel
+Sundance Now Apple TV channel
 Super Channel Amazon Channel
 Super Channel Plus
 Superfresh Amazon Channel
@@ -748,7 +750,7 @@ TVNZ+
 TVP
 Takflix
 Tastemade Amazon Channel 
-Tastemade Apple TV Channel
+Tastemade Apple TV channel
 Tata Play
 Tele Quebec
 Tele2 Play
@@ -788,9 +790,10 @@ TvIgle
 U-NEXT
 UKTV Play
 UP Faith & Family Amazon Channel 
-UP Faith & Family Apple TV Channel
+UP Faith & Family Apple TV channel
 UPC TV
 USA Network
+Ultraplaybox Amazon Channel
 Univer Video
 Universal+ Amazon Channel
 VH1
