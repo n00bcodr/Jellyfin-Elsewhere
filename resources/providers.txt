@@ -1,4 +1,4 @@
-# Providers data updated on 2026-09-01 02:17:01 UTC
+# Providers data updated on 2026-09-15 02:06:40 UTC
 # Format: One provider name per line
  AP International South Cinema Amazon Channel
  AXN White Amazon Channel 
@@ -27,6 +27,7 @@ AMC Plus Apple TV channel
 AMC+
 AMC+ Amazon Channel
 AMC+ Roku Premium Channel
+AMI Plus 
 ARD Mediathek
 ARD Plus
 ARD Plus Amazon channel 
@@ -161,6 +162,7 @@ Canal+ Séries
 CanalSurMas
 Carnegie Hall+ Amazon Channel
 Carnegie Hall+ Apple TV channel
+Cartoon Network Amazon Channel
 Catchplay
 Chai Flicks
 Channel 4
@@ -212,6 +214,7 @@ CurtaOn Amazon Channel
 Curzon Amazon Channel
 Curzon Home Cinema
 D-Smart Go
+DC Amazon Channel
 DIRECTV GO
 DOCSVILLE
 DRTV
@@ -226,6 +229,7 @@ Die Biene Maja & Friends
 Disaster X Amazon Channel
 Discovery
 Discovery +
+Discovery Kids Amazon Channel
 Discovery+
 Discovery+ Amazon Channel
 Disney Plus
@@ -234,6 +238,7 @@ DisneyNOW
 DistroTV
 Dizi Amazon Channel
 Djangowestern Amazon Channel
+Doc Canal Brasil Amazon Channel
 DocAlliance Films
 DocCom Amazon Channel
 DocPlay
@@ -296,6 +301,7 @@ Filmlegenden Amazon Channel
 Filmoteket
 Filmpalast Amazon Channel
 Filmstriben
+Filmtap
 Filmtastic
 Filmtastic Amazon Channel
 Filmtastic bei Canal+
@@ -333,6 +339,7 @@ Gaumont Amazon Channel
 GlewedTV
 Global TV
 Globoplay
+Gloob Amazon Channel
 Go3
 Goldmines Play Amazon Channel
 Google Play Movies
@@ -493,6 +500,7 @@ Mhz Choice
 Midnight Pulp
 Midnight Pulp Amazon Channel
 Moconomy Amazon Channel
+Modo Viagem Amazon Channel
 Molotov TV
 Mometu
 Monomax
@@ -508,6 +516,7 @@ Moviedome Plus Amazon Channel
 Movistar Plus+
 Movistar Plus+ Ficción Total 
 MovistarTV
+Multishow Amazon Channel
 MyOutdoor TV Amazon Channel
 MyOutdoorTV
 MĀORI+
@@ -586,6 +595,7 @@ Peacock Premium Plus Amazon Channel
 Philo
 Pickbox NOW
 Picl
+Pijama Films
 Pilot WP
 Pinguinitos Amazon Channel
 Pinoy Box Office Amazon Channel
@@ -715,7 +725,7 @@ Sundance Now Apple TV channel
 Super Channel Amazon Channel
 Super Channel Plus
 Superfresh Amazon Channel
-Sweatflix Amazon Channel
+Sweet.tv
 TBS
 TCM
 TELE 5
