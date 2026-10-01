@@ -1,4 +1,4 @@
-# Providers data updated on 2026-09-15 02:06:40 UTC
+# Providers data updated on 2026-10-01 02:44:00 UTC
 # Format: One provider name per line
  AP International South Cinema Amazon Channel
  AXN White Amazon Channel 
@@ -111,6 +111,7 @@ BFI Player
 BFI Player Amazon Channel
 BFI Player Apple TV Channel
 BINGE
+BINGE Movies & TV
 BS10 STAR CHANNEL EX Amazon Channel
 BYUtv
 Baeble Amazon Channel
@@ -155,6 +156,7 @@ CJ ENM Selects Amazon Channel
 CN Rewind Amazon Channel
 CNTV PLAY
 CaixaForum+
+Canais Globo Amazon Channel
 Canal Once
 Canal VOD
 Canal+
@@ -179,6 +181,7 @@ CineAutore Amazon Channel
 CineMember
 CineMix+ Amazon Channel
 Cineasterna
+Cinefest Amazon Channel
 Cinefil Wow Plus Amazon Channel
 Cinema of Hearts Amazon Channel
 Cinemax Amazon Channel
@@ -214,7 +217,6 @@ CurtaOn Amazon Channel
 Curzon Amazon Channel
 Curzon Home Cinema
 D-Smart Go
-DC Amazon Channel
 DIRECTV GO
 DOCSVILLE
 DRTV
@@ -249,8 +251,10 @@ DocuramaFilms Amazon Channel
 Doki Amazon Channel
 Dove Amazon Channel
 Dox Amazon Channel
+Draken Film
 DreamWorksTV Amazon Channel
 Dreamscape Kids Amazon Channel
+Dubai+
 E! Entertainment Amazon Channel 
 EPIC ON
 ESPN
@@ -428,6 +432,7 @@ Kids Station On Demand Amazon Channel
 Kidstream Amazon Channel
 Kinderwelt Amazon Channel
 Kino Film Collection
+Kino Film Collection Amazon Channel
 Kino on Demand
 Kinopoisk
 Kirjastokino
@@ -447,6 +452,7 @@ LTV7
 LaCinetek
 Laugh & Peace Mother Select Amazon Channel
 Lemino Select Amazon Channel
+Lente Curta+
 Lepsi TV
 Libreflix
 Lifetime
@@ -456,7 +462,7 @@ Lifetime Movie Club Apple TV channel
 Lionsgate Play
 Lionsgate Play Amazon Channel
 Lionsgate Play Apple TV Channel
-Lionsgate+ Amazon Channels
+Lionsgate+ Amazon Channel
 Looke
 Looke Amazon Channel
 Love Nature Amazon Channel
@@ -715,6 +721,7 @@ Stingray Djazz Amazon Channel
 Stingray Karaoke Amazon Channel
 Strand Releasing Amazon Channel
 Strim
+Studiocanal Presents ALLSTARS Amazon Channel
 Studiocanal Presents Amazon Channel
 Studiocanal Presents MOVIECULT Amazon Channel
 Stupid Co
@@ -770,6 +777,7 @@ Telia Play
 Tenk
 Terra X Amazon Channel
 Thai PBS
+The Asylum Channel Amazon Channel
 The CW
 The Coda Collection Amazon Channel
 The Film Club Amazon Channel
