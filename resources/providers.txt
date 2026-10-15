@@ -1,4 +1,4 @@
-# Providers data updated on 2026-10-01 02:44:00 UTC
+# Providers data updated on 2026-10-15 02:03:43 UTC
 # Format: One provider name per line
  AP International South Cinema Amazon Channel
  AXN White Amazon Channel 
@@ -33,7 +33,7 @@ ARD Plus
 ARD Plus Amazon channel 
 ARD Plus Apple TV channel
 ARROW
-ARTE Boutique
+ARTE VOD
 ASIATIC Amazon Channel
 AVA BGB
 AVA CSAL
@@ -272,6 +272,8 @@ Eventive
 Exxen
 FANY Channel Select Amazon Channel
 FEAR Amazon Channel
+FILMBOX+ Now Amazon Channel
+FILMBOX+ Stream
 FOD
 FOD Channel Amazon Channel
 FOUND TV
@@ -295,8 +297,6 @@ Film Movement Plus
 Film Movement Plus Amazon Channel
 Film Total Amazon Channel
 Film1
-FilmBox Live Amazon Channel
-FilmBox+
 Filmelier Plus Amazon Channel
 Filmicca
 Filmin
@@ -418,6 +418,8 @@ Joyn
 Joyn Plus
 Jupiter+
 JustWatch TV
+JustWatch TV Plus
+JustWatch TV Store
 KADOKAWA channel Amazon Channel
 KANTELE DOGA CHANNEL Amazon Channel
 KPN
@@ -666,7 +668,7 @@ SFR Play
 STARZPLAY
 STUDIOCANAL PRESENTS Apple TV Channel
 STV Player
-SVT
+SVT Play
 Sat.1 emotions Amazon Channel
 Saudi Channel
 Science Channel
@@ -691,7 +693,6 @@ Silverline Amazon Channel
 Sky
 Sky Go
 Sky Store
-Sky X
 SkyShowtime
 Sling TV Orange
 Sling TV Orange and Blue
@@ -745,7 +746,6 @@ TLC
 TNT
 TOD
 TOD TV
-TPT
 TV 2
 TV 2 Bornholm
 TV 2 Fyn
