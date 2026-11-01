@@ -1,4 +1,4 @@
-# Providers data updated on 2026-10-15 02:03:43 UTC
+# Providers data updated on 2026-11-01 02:50:50 UTC
 # Format: One provider name per line
  AP International South Cinema Amazon Channel
  AXN White Amazon Channel 
@@ -27,7 +27,7 @@ AMC Plus Apple TV channel
 AMC+
 AMC+ Amazon Channel
 AMC+ Roku Premium Channel
-AMI Plus 
+AMI Plus
 ARD Mediathek
 ARD Plus
 ARD Plus Amazon channel 
@@ -198,7 +198,6 @@ Claro video
 Club Illico
 Cocina ON Amazon Channel
 Cohen Media Amazon Channel
-Comedy Central Plus Amazon Channel
 CosmoGo
 Coupang Play
 Crave
@@ -237,7 +236,6 @@ Discovery+ Amazon Channel
 Disney Plus
 Disney+
 DisneyNOW
-DistroTV
 Dizi Amazon Channel
 Djangowestern Amazon Channel
 Doc Canal Brasil Amazon Channel
@@ -270,6 +268,7 @@ Eros Now Select Apple TV channel
 Eternal Family
 Eventive
 Exxen
+Eye Film Player
 FANY Channel Select Amazon Channel
 FEAR Amazon Channel
 FILMBOX+ Now Amazon Channel
@@ -411,13 +410,15 @@ Investigation Discovery
 Ivi
 Iwonder Amazon Channel
 JOJO Amazon Channel
+Jallosh Amazon Channel
 Jidiaigeki Senmon Channel Amazon Channel
 JioHotstar
 Jolt Film
 Joyn
 Joyn Plus
 Jupiter+
-JustWatch TV
+JustWatch TV Beta
+JustWatch TV Free
 JustWatch TV Plus
 JustWatch TV Store
 KADOKAWA channel Amazon Channel
@@ -516,6 +517,7 @@ Monsters and Nightmares Amazon Channel
 More TV
 Mosaik Amazon Channel
 Motorvision TV Amazon Channel
+Movie Sphere+
 MovieMe
 MovieSaints
 MovieSphere+ Amazon Channel
@@ -581,6 +583,7 @@ Ovation TV
 PBS
 PBS America Amazon Channel
 PBS Documentaries Amazon Channel
+PBS Kids
 PBS Kids Amazon Channel
 PBS Living Amazon Channel
 PBS Masterpiece Amazon Channel
@@ -703,6 +706,7 @@ Sony One Amazon Channel
 Sony Pictures Amazon Channel
 Sony Pictures Core Amazon Channel
 Sony pictures
+Sonyliv Amazon Channel
 Sooner
 Sooner Amazon Channel
 South Park
@@ -743,6 +747,7 @@ TF1+
 TFOU Max Amazon Channel
 TG4
 TLC
+TLMad
 TNT
 TOD
 TOD TV
@@ -760,6 +765,7 @@ TV+
 TV2 Skyshowtime
 TV2 ØST
 TV4 Play
+TV5 Monde+
 TV5 Unis
 TVCortos Amazon Channel
 TVING
@@ -896,6 +902,7 @@ myfilmfriend
 puhutv
 rtve
 tabii
+tot IB3
 tru TV
 tvo
 wavve
